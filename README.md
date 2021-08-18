@@ -1,5 +1,5 @@
 ### Olá, eu sou a Beatriz Francelino
-Atualmente sou uma estudante de desenvolvimento Web Java no instituto PROA
+Atualmente sou uma estudante de desenvolvimento Web Java no Instituto PROA
 <div>
   <a href="https://github.com/ibtriz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibtriz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
