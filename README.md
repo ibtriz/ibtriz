@@ -1,16 +1,13 @@
 ### Olá, eu sou a Beatriz Francelino
 Sou uma iniciante na área, atualmente estudo desenvolvimento Web Java no Instituto PROA. Tenho um profundo interesse por tecnologia, arte digital, Interação Humano-Computador e mais algumas coisas.
-<br>
+<br> 
+###
 Avançada em Inglês, intermediária em Francês e iniciante em Italiano (por enquanto...)
-<br>
-<font color="#808588"> 
-  I'm a beginner in the field, currently studying Java Web development at Instituto PROA. I have a deep interest in technology, digital art, Human-Computer Interaction and a few more things.
-Advanced in English, intermediate in French and beginner in Italian (for now...).
-  </font>
+###
 <div>
   <a href="https://github.com/ibtriz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibtriz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtriz&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibtriz&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtriz&layout=compact&langs_count=7&theme=material-palenight"/>
 <img align="right" alt="Bea-Hanako" src="https://i.pinimg.com/originals/57/f8/b8/57f8b85f199cfcc233a284430ab92ff8.gif" >
     </div>
 <div style="display: inline_block"><br>
