@@ -8,7 +8,7 @@ Avançada em Inglês, intermediária em Francês e iniciante em Italiano (por en
  <a href="https://github.com/ibtriz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibtriz&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtriz&layout=compact&langs_count=7&theme=blueberry"/>
-<img style="float:right; "hspace=70px"; alt="Bea-Hanako" src="https://i.pinimg.com/originals/57/f8/b8/57f8b85f199cfcc233a284430ab92ff8.gif" >
+<img style="float:right; alt="Bea-Hanako" src="https://i.pinimg.com/originals/57/f8/b8/57f8b85f199cfcc233a284430ab92ff8.gif" >
   </div>
 
 <div style="display: inline_block"><br>
