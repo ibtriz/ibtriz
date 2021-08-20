@@ -4,15 +4,14 @@ Sou uma iniciante na área, atualmente estudo desenvolvimento Web Java no Instit
 ###
 Avançada em Inglês, intermediária em Francês e iniciante em Italiano (por enquanto...)
 ###
-<div>
+<div style="display: inline_block">
+ <br>
  <a href="https://github.com/ibtriz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibtriz&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtriz&layout=compact&langs_count=7&theme=blueberry"/>
 <img style="float:right; alt="Bea-Hanako" src="https://i.pinimg.com/originals/57/f8/b8/57f8b85f199cfcc233a284430ab92ff8.gif" >
   </div>
 
-<div style="display: inline_block"><br>
-  
   <div> 
    <img align="center" alt="Bea-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bea-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
