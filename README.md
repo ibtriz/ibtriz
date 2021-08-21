@@ -1,4 +1,4 @@
-### Oie, eu sou a Beatriz Francelino
+### Oie, eu sou a Beatriz
 Sou uma iniciante na área, atualmente estudo desenvolvimento Web Java no Instituto PROA. Tenho um profundo interesse por tecnologia, arte digital, Interação Humano-Computador e mais algumas coisas.
 <br> 
 ###
