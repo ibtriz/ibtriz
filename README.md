@@ -3,6 +3,11 @@ Sou uma iniciante na área, atualmente estudo desenvolvimento Web Java no Instit
 <br> 
 ###
 Avançada em Inglês, intermediária em Francês e iniciante em Italiano (por enquanto...)
+
+<hey, I'm Beatriz
+I'm a beginner in the field, currently studying Java Web development at Instituto PROA. I have a profound interest in technology, digital art, Human-Computer Interaction, and a few more things.
+
+Advanced in English, intermediate in French and beginner in Italian (for now...)>
 ###
 <div style="display: inline_block">
  <br>
