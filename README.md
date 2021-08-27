@@ -1,10 +1,8 @@
 ## Oie, eu sou a Beatriz
 Sou uma iniciante na área, atualmente estudo desenvolvimento Web Java no Instituto PROA. Tenho um profundo interesse por tecnologia, arte digital, Interação Humano-Computador e mais algumas coisas. <br>
-Avançada em Inglês, intermediária em Francês e iniciante em Italiano (por enquanto...)
 
 >*hey, Beatriz here*<br>
 >*I'm a beginner in the field, currently studying Web Development in Java at Instituto PROA. I have a profound interest in technology, digital art, Human-Computer Interaction, and a few more things.*<br>
->*Advanced in English, intermediate in French and beginner in Italian (for now...)*
 ###
 <div style="display: inline_block">
  <br>
