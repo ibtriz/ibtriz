@@ -3,7 +3,7 @@ Sou uma iniciante na área, atualmente estudo desenvolvimento Web Java no Instit
 
 >*hey, Beatriz here*<br>
 >*I'm a beginner in the field, currently studying Web Development in Java at Instituto PROA. I have a profound interest in technology, digital art, Human-Computer Interaction, and a few more things.*<br>
-###
+
 
    <div>
  <a href="https://github.com/ibtriz">
