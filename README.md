@@ -1,13 +1,13 @@
 ## Oie, eu sou a Beatriz
 Sou uma iniciante na área, atualmente estudo desenvolvimento Web Java no Instituto PROA. Tenho um profundo interesse por tecnologia, arte digital, Interação Humano-Computador e mais algumas coisas. <br>
 
->*hey, Beatriz here*<br>
->*I'm a beginner in the field, currently studying Web Development in Java at Instituto PROA. I have a profound interest in technology, digital art, Human-Computer Interaction, and a few more things.*<br>
+>*hey, Beatriz here*
+>*I'm a beginner in the field, currently studying Web Development in Java at Instituto PROA. I have a profound interest in technology, digital art, Human-Computer Interaction, and a few more things.*
 
 <div style="display: inline_block">
  <a href="https://github.com/ibtriz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibtriz&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtriz&layout=compact&langs_count=7&theme=blueberry"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ibtriz&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtriz&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
    
 <div style="display: inline_block"><br>
