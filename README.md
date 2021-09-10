@@ -10,7 +10,7 @@ Sou uma iniciante na área, atualmente estudo desenvolvimento Web Java no Instit
  <a href="https://github.com/ibtriz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibtriz&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtriz&layout=compact&langs_count=7&theme=blueberry"/>
-  <img style="float:right" "height=169px"; alt="Bea-Hanako" src="https://i.pinimg.com/originals/01/a1/ac/01a1ac25f5445825000b96a2505b5a2a.gif">
+  <img style="float:right" "height=109px"; alt="Bea-Hanako" src="https://i.pinimg.com/originals/01/a1/ac/01a1ac25f5445825000b96a2505b5a2a.gif">
   </div>
 
   <div> 
