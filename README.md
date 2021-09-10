@@ -9,7 +9,6 @@ Sou uma iniciante na área, atualmente estudo desenvolvimento Web Java no Instit
  <a href="https://github.com/ibtriz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibtriz&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtriz&layout=compact&langs_count=7&theme=blueberry"/>
-<img style="float:right; alt="Bea-Hanako" src="https://i.pinimg.com/originals/57/f8/b8/57f8b85f199cfcc233a284430ab92ff8.gif" >
   </div>
 
   <div> 
@@ -24,3 +23,6 @@ Sou uma iniciante na área, atualmente estudo desenvolvimento Web Java no Instit
   <a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ![Snake animation](https://github.com/ibtriz/ibtriz/blob/output/github-contribution-grid-snake.svg)
+<div style="display: inline_block"> 
+ <img style="float:right; alt="Bea-Hanako" src="https://img.wattpad.com/1830ec76a166c5de7cc2859233d0c80293a88868/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f39435779346b6475684745326c673d3d2d3235342e313634643530333534383862363163353331343732313237383038332e676966">
+</div>
