@@ -5,10 +5,11 @@ Sou uma iniciante na área, atualmente estudo desenvolvimento Web Java no Instit
 >*I'm a beginner in the field, currently studying Web Development in Java at Instituto PROA. I have a profound interest in technology, digital art, Human-Computer Interaction, and a few more things.*
 
 
- <a href="https://github.com/ibtriz">
-  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=ibtriz&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
- <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtriz&layout=compact&langs_count=7&theme=blueberry"/>
- </a>
+  <div>
+  <a href="https://github.com/ibtriz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibtriz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtriz&layout=compact&langs_count=7&theme=dracula"/>
+</div>
    
 <div style="display: inline_block"><br>
    <img align="center" alt="Bea-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
