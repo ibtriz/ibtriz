@@ -7,7 +7,7 @@ Sou uma iniciante na área, atualmente estudo desenvolvimento Web Java no Instit
 
   <div>
   <a href="https://github.com/ibtriz">
-  <img widgth="150em" src="https://github-readme-stats.vercel.app/api?username=ibtriz&hide=prs,issues,show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img widgth="50%" height="170em" src="https://github-readme-stats.vercel.app/api?username=ibtriz&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtriz&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
    
