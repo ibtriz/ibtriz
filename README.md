@@ -21,7 +21,7 @@ Sou uma iniciante na área, atualmente estudo desenvolvimento Web Java no Instit
  </div>
   
   ##
-  <a href = "mailto:beatriz.fbcarneiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:beatriz.fbcarneiro@gmail.com"><img src="https://img.icons8.com/dotty/80/000000/gmail.png" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"><img src="https://img.icons8.com/dotty/80/000000/linkedin.png" target="_blank"></a> 
 
 ![Snake animation](https://github.com/ibtriz/ibtriz/blob/output/github-contribution-grid-snake.svg)
