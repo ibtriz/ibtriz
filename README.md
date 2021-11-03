@@ -17,6 +17,7 @@ Atualmente estudo desenvolvimento Web Java no Instituto PROA. Tenho um profundo 
   <img align="center" alt="Bea-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Bea-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
    <img align="center" alt="Bea-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <!-- <img align="center" alt="Bea-TS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>-->
   <!-- <img align="center" alt="Bea-mySQL" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>-->
   <img align="right" height="169" alt="Bea-Hanako" src="https://i.pinimg.com/originals/01/a1/ac/01a1ac25f5445825000b96a2505b5a2a.gif">
  
