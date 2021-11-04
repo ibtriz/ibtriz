@@ -1,4 +1,4 @@
-## Oie, eu sou a Beatriz   <img align="center" alt="Bea-HTML" height="30" width="40" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif">
+## Oie, eu sou a Beatriz  <img align="center" alt="Bea-GifNome" height="30" width="40" src="https://3.bp.blogspot.com/-z7jEKIbw0eY/XD4lyqEsQqI/AAAAAAAAg3k/4NkzjgAnpZ4lFowSDQRpA4_iuVo8gNQbACLcBGAs/s1600/d4912dd17a8d7db914ad0f75e49d931026751c89r1-500-391_hq.gif">
 Atualmente estudo desenvolvimento Web Java no Instituto PROA. Tenho um profundo interesse por tecnologia, arte digital, Interação Humano-Computador e mais algumas coisas. <br>
 
 >*hey, Beatriz here.*
@@ -17,6 +17,7 @@ Atualmente estudo desenvolvimento Web Java no Instituto PROA. Tenho um profundo 
   <img align="center" alt="Bea-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Bea-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
    <img align="center" alt="Bea-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Bea-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg""/>
     <!-- <img align="center" alt="Bea-TS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>-->
   <!-- <img align="center" alt="Bea-mySQL" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>-->
   <img align="right" height="169" alt="Bea-Hanako" src="https://i.pinimg.com/originals/01/a1/ac/01a1ac25f5445825000b96a2505b5a2a.gif">
