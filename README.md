@@ -1,4 +1,4 @@
-## Oie, eu sou a Beatriz  <img align="center" alt="Bea-GifNome" height="50" src="https://3.bp.blogspot.com/-z7jEKIbw0eY/XD4lyqEsQqI/AAAAAAAAg3k/4NkzjgAnpZ4lFowSDQRpA4_iuVo8gNQbACLcBGAs/s1600/d4912dd17a8d7db914ad0f75e49d931026751c89r1-500-391_hq.gif">
+## Oie, eu sou a Beatriz  <img align="center" alt="Bea-GifNome" height="50" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc25ec3f-b1c8-4630-91e9-1e260b289f2d/d91zy67-424b516e-5eee-416e-94a8-cc5cb5eb718a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JjMjVlYzNmLWIxYzgtNDYzMC05MWU5LTFlMjYwYjI4OWYyZFwvZDkxenk2Ny00MjRiNTE2ZS01ZWVlLTQxNmUtOTRhOC1jYzVjYjVlYjcxOGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Qr0N9B4Rk1sgjiO7aP9b1VB25B2Cl6C9QLYrFMBTl48">
 Atualmente estudo desenvolvimento Web Java no Instituto PROA. Tenho um profundo interesse por tecnologia, arte digital, Interação Humano-Computador e mais algumas coisas. <br>
 
 >*hey, Beatriz here.*
