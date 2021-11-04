@@ -1,4 +1,4 @@
-## Oie, eu sou a Beatriz
+## Oie, eu sou a Beatriz   <img align="center" alt="Bea-HTML" height="30" width="40" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif">
 Atualmente estudo desenvolvimento Web Java no Instituto PROA. Tenho um profundo interesse por tecnologia, arte digital, Interação Humano-Computador e mais algumas coisas. <br>
 
 >*hey, Beatriz here.*
