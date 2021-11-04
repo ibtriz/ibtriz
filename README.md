@@ -30,7 +30,6 @@ Atualmente estudo desenvolvimento Web Java no Instituto PROA. Tenho um profundo 
  </div>
   
   ##
-  <a href = "mailto:beatriz.fbcarneiro@gmail.com"><img src="https://img.icons8.com/dotty/80/000000/gmail.png" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"><img src="https://img.icons8.com/dotty/80/000000/linkedin.png" target="_blank"></a> 
+  <a href="mailto:beatriz.fbcarneiro@gmail.com"><img height="50" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" target="_blank"></a>                               <a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"> <img height="50" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" target="_blank"></a> 
 
 ![Snake animation](https://github.com/ibtriz/ibtriz/blob/output/github-contribution-grid-snake.svg)
