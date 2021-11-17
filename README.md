@@ -4,7 +4,7 @@
 
 <!--  <img align="center" alt="Bea-GifNome3" height="50" src="http://2.bp.blogspot.com/-8_cqXjBfIp0/U2wlop1IswI/AAAAAAAAFtY/IYIQZkAY1Oo/s1600/Kirby+10.gif"/> -->
 
-Atualmente estudo desenvolvimento Web Java no Instituto PROA. Tenho um profundo interesse por tecnologia, arte digital, Interação Humano-Computador e mais algumas coisas. <br>
+Atualmente estudo desenvolvimento Web Java no Instituto PROA. Tenho um profundo interesse por tecnologia, arte digital, Interação Humano-Computador, modelagem 3D e mais algumas coisas. <br>
 
 >*hey, Beatriz here.*
 >*Currently studying Web Development in Java at Instituto PROA. I have a profound interest in technology, digital art, Human-Computer Interaction, and a few more things.*
