@@ -4,8 +4,8 @@
 
 <!--  <img align="center" alt="Bea-GifNome3" height="50" src="http://2.bp.blogspot.com/-8_cqXjBfIp0/U2wlop1IswI/AAAAAAAAFtY/IYIQZkAY1Oo/s1600/Kirby+10.gif"/> -->
 
-Currently studying to become a Full Stack JavaScript developer. I have a profound interest in technology, new languages, digital art, Human-Computer Interaction, 3D modeling and a few more things.<br> Feel free to see my repositories.
->*Atualmente estou estudando para me tornar uma desenvolvedora Full Stack Javascript. Tenho um profundo interesse por tecnologia, aprender novos idiomas, arte digital, Interação Humano-Computador, modelagem 3D e mais algumas coisas.<br> Fique a vontade para ver meus repositórios.* <br>
+Currently studying to become a Full Stack JavaScript developer. I have a profound interest in full stack development, new languages, digital art, Human-Computer Interaction, 3D modeling and a few more things.<br> Feel free to see my repositories.
+>*Atualmente estou estudando para me tornar uma desenvolvedora Full Stack Javascript. Tenho um profundo interesse por desenvolvimento Full Stack, aprender novos idiomas, arte digital, Interação Humano-Computador, modelagem 3D e mais algumas coisas.<br> Fique a vontade para ver meus repositórios.* <br>
 
 
   <div>
