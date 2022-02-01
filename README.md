@@ -1,11 +1,14 @@
  <p align="center"> <img align="center" alt="Bea-GifNome" height="45" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc25ec3f-b1c8-4630-91e9-1e260b289f2d/d91zy67-424b516e-5eee-416e-94a8-cc5cb5eb718a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JjMjVlYzNmLWIxYzgtNDYzMC05MWU5LTFlMjYwYjI4OWYyZFwvZDkxenk2Ny00MjRiNTE2ZS01ZWVlLTQxNmUtOTRhOC1jYzVjYjVlYjcxOGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Qr0N9B4Rk1sgjiO7aP9b1VB25B2Cl6C9QLYrFMBTl48"> 𝑯𝒆𝒚, 𝑩𝒆𝒂𝒕𝒓𝒊𝒛 𝒉𝒆𝒓𝒆 <img align="center" alt="Bea-GifNome" height="45" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc25ec3f-b1c8-4630-91e9-1e260b289f2d/d91zy67-424b516e-5eee-416e-94a8-cc5cb5eb718a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JjMjVlYzNmLWIxYzgtNDYzMC05MWU5LTFlMjYwYjI4OWYyZFwvZDkxenk2Ny00MjRiNTE2ZS01ZWVlLTQxNmUtOTRhOC1jYzVjYjVlYjcxOGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Qr0N9B4Rk1sgjiO7aP9b1VB25B2Cl6C9QLYrFMBTl48"></p>
 
-<!--  <img align="center" alt="Bea-GifNome2" height="50" src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif"/> -->
-
 <!--  <img align="center" alt="Bea-GifNome3" height="50" src="http://2.bp.blogspot.com/-8_cqXjBfIp0/U2wlop1IswI/AAAAAAAAFtY/IYIQZkAY1Oo/s1600/Kirby+10.gif"/> -->
+<!--<img align="center" alt="Bea-GifNome2" height="50" src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif"/> -->
 
-Currently studying to become a Full Stack JavaScript developer. I have a profound interest in full stack development, new languages, digital art, Human-Computer Interaction, 3D modeling and a few more things.<br> Feel free to see my repositories.
->*Atualmente estou estudando para me tornar uma desenvolvedora Full Stack Javascript. Tenho um profundo interesse por desenvolvimento Full Stack, aprender novos idiomas, arte digital, Interação Humano-Computador, modelagem 3D e mais algumas coisas.<br> Fique a vontade para ver meus repositórios.* <br>
+<p>I started my journey through the software development by studying Java on Instituto PROA, where I got my first interactions with programming languages. Now, by the OneBitCode course, I'm studying to become a Full Stack JavaScript developer.</p>
+<p>I have a profound interest in full stack development, new languages, digital art, Human-Computer Interaction, 3D modeling and a few more things.
+ <br> 
+ 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒔𝒆𝒆 𝒎𝒚 𝒓𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒊𝒆𝒔 !!!</p>
+
+>*Iniciei minha jornada pelo desenvolvimento de software estudando Java no instituto PORA, onde tive meu primeiro contato com linguagens de programação. Atualmente estou estudando para me tornar uma desenvolvedora Full Stack Javascript.<br> Tenho um profundo interesse por desenvolvimento Full Stack, aprender novos idiomas, arte digital, Interação Humano-Computador, modelagem 3D e mais algumas coisas.<br><br> Fique a vontade para ver meus repositórios!!!* <br>
 
 
   <div>
