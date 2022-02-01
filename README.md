@@ -5,7 +5,7 @@
 
 <p>I started my journey through the software development by studying Java on Instituto PROA, where I got my first interactions with programming languages. Now, by the OneBitCode course, I'm studying to become a Full Stack JavaScript developer.</p>
 <p>I have a profound interest in full stack development, new languages, digital art, Human-Computer Interaction, 3D modeling and a few more things.
- <br> 
+ <br><br> 
  𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒔𝒆𝒆 𝒎𝒚 𝒓𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒊𝒆𝒔 !!!</p>
 
 >*Iniciei minha jornada pelo desenvolvimento de software estudando Java no instituto PORA, onde tive meu primeiro contato com linguagens de programação. Atualmente estou estudando para me tornar uma desenvolvedora Full Stack Javascript.<br> Tenho um profundo interesse por desenvolvimento Full Stack, aprender novos idiomas, arte digital, Interação Humano-Computador, modelagem 3D e mais algumas coisas.<br><br> Fique a vontade para ver meus repositórios!!!* <br>
