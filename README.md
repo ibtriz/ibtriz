@@ -3,7 +3,7 @@
 <!--  <img align="center" alt="Bea-GifNome3" height="50" src="http://2.bp.blogspot.com/-8_cqXjBfIp0/U2wlop1IswI/AAAAAAAAFtY/IYIQZkAY1Oo/s1600/Kirby+10.gif"/> -->
 <!--<img align="center" alt="Bea-GifNome2" height="50" src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif"/> -->
 
-<p>I started my journey through the software development by studying Java on Instituto PROA on August 2021, where I got my first interactions with programming languages. Now, by the OneBitCode course, I'm studying to become a Full Stack JavaScript developer.</p>
+<p>I started my journey through the software development studying Java on Instituto PROA on August 2021, where I got my first interactions with programming languages. Now, by the OneBitCode course, I'm studying to become a Full Stack JavaScript developer.</p>
 <p>I have a profound interest in Full Stack development, new languages, digital art, Human-Computer Interaction, 3D modeling and a few more things.
  <br><br> 
  𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒔𝒆𝒆 𝒎𝒚 𝒓𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒊𝒆𝒔 !!!</p>
