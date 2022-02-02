@@ -35,6 +35,9 @@
  </div>
   
   ##
-  <a href="mailto:beatriz.fbcarneiro@gmail.com"><img height="50" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" target="_blank"></a>                               <a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"> <img height="50" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" target="_blank"></a> 
-
+ <div align="center">
+  <a href="mailto:beatriz.fbcarneiro@gmail.com"><img height="50" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"> <img height="50" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" target="_blank"></a> 
+</div>
+ 
 ![Snake animation](https://github.com/ibtriz/ibtriz/blob/output/github-contribution-grid-snake.svg)
