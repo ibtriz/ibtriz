@@ -1,7 +1,7 @@
  <p align="center"> <img align="center" alt="Bea-GifNome" height="45" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc25ec3f-b1c8-4630-91e9-1e260b289f2d/d91zy67-424b516e-5eee-416e-94a8-cc5cb5eb718a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JjMjVlYzNmLWIxYzgtNDYzMC05MWU5LTFlMjYwYjI4OWYyZFwvZDkxenk2Ny00MjRiNTE2ZS01ZWVlLTQxNmUtOTRhOC1jYzVjYjVlYjcxOGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Qr0N9B4Rk1sgjiO7aP9b1VB25B2Cl6C9QLYrFMBTl48"> 𝑯𝒆𝒚, 𝑩𝒆𝒂𝒕𝒓𝒊𝒛 𝒉𝒆𝒓𝒆 <img align="center" alt="Bea-GifNome" height="45" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc25ec3f-b1c8-4630-91e9-1e260b289f2d/d91zy67-424b516e-5eee-416e-94a8-cc5cb5eb718a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JjMjVlYzNmLWIxYzgtNDYzMC05MWU5LTFlMjYwYjI4OWYyZFwvZDkxenk2Ny00MjRiNTE2ZS01ZWVlLTQxNmUtOTRhOC1jYzVjYjVlYjcxOGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Qr0N9B4Rk1sgjiO7aP9b1VB25B2Cl6C9QLYrFMBTl48"></p>
 
 <!--  <img align="center" alt="Bea-GifNome3" height="50" src="http://2.bp.blogspot.com/-8_cqXjBfIp0/U2wlop1IswI/AAAAAAAAFtY/IYIQZkAY1Oo/s1600/Kirby+10.gif"/> -->
-<!--<img align="center" alt="Bea-GifNome2" height="50" src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif"/> -->
+<!-- <img align="center" alt="Bea-GifNome2" height="50" src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif"/> -->
 
 <p>I started my journey through the software development studying Java on Instituto PROA on August 2021, where I got my first interactions with programming languages. Now, by the OneBitCode course, I'm studying to become a Full Stack JavaScript developer.</p>
 <p>I have a profound interest in Full Stack development, new languages, digital art, Human-Computer Interaction, 3D modeling and a few more things.
@@ -39,4 +39,4 @@
   <a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"> <img height="30" src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"></a> 
 </div>
  
-![Snake animation](https://github.com/ibtriz/ibtriz/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/ibtriz/ibtriz/blob/output/github-contribution-grid-snake.svg) -->
