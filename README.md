@@ -35,8 +35,8 @@
   
   ##
  <div align="center">
-  <a href="mailto:beatriz.fbcarneiro@gmail.com"><img height="50" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"> <img height="50" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" target="_blank"></a> 
+  <a href="mailto:beatriz.fbcarneiro@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-6610F2?style=for-the-badge&logo=Gmail&logoColor=FFFFFF" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"> <img height="30" src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"></a> 
 </div>
  
 ![Snake animation](https://github.com/ibtriz/ibtriz/blob/output/github-contribution-grid-snake.svg)
