@@ -4,11 +4,11 @@
 <!-- <img align="center" alt="Bea-GifNome2" height="50" src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif"/> -->
 
 <p>I started my journey through the software development studying Java on PROA Institute on August 2021, where I got my first interactions with programming languages. Now, by the OneBitCode course, I'm studying to become a Full Stack JavaScript developer.</p>
-<p>I have a profound interest in Full Stack development, new languages, Design Thinking, digital art, Human-Computer Interaction, 3D modeling and a few more things.
+<p>I have a profound interest in Full Stack development, new languages, Design Thinking, digital art, Human-Computer Interaction, 3D modeling, Game Development and a few more things.
  <br><br> 
  𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒔𝒆𝒆 𝒎𝒚 𝒓𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒊𝒆𝒔 !!!</p>
  
->*Iniciei minha jornada pelo desenvolvimento de software estudando Java no Instituto PROA em Agosto de 2021, onde tive meu primeiro contato com linguagens de programação. Atualmente estou estudando para me tornar uma desenvolvedora Full Stack Javascript.<br> Tenho um profundo interesse por desenvolvimento Full Stack, aprender novos idiomas, Design Thinking, arte digital, Interação Humano-Computador, modelagem 3D e mais algumas coisas.<br><br> Fique a vontade para ver meus repositórios!!!* <br>
+>*Iniciei minha jornada pelo desenvolvimento de software estudando Java no Instituto PROA em Agosto de 2021, onde tive meu primeiro contato com linguagens de programação. Atualmente estou estudando para me tornar uma desenvolvedora Full Stack Javascript.<br> Tenho um profundo interesse por desenvolvimento Full Stack, aprender novos idiomas, Design Thinking, arte digital, Interação Humano-Computador, modelagem 3D, desenvolvimento de jogos e mais algumas coisas.<br><br> Fique a vontade para ver meus repositórios!!!* <br>
 
 
   <div>
