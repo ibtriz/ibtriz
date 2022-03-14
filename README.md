@@ -31,8 +31,8 @@
 <!-- <img align="center" alt="Bea-mySQL" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>
    <img align="center" alt="Bea-JAVA"<!-- height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> -->
  
-   <img align="right" height="200" alt="Bea-gif" src="https://im.ezgif.com/tmp/ezgif-1-250c544f4c.gif">
-<!-- <img align="right" height="169" alt="Bea-707" src="https://64.media.tumblr.com/161fe8b55c60bc79dd05d7f9be27ee2b/95757ed8e45eba00-03/s640x960/efd98e66df051028b2cb729ffe4f64982c75fb7b.gifv"> -->
+  <!--  <img align="right" height="200" alt="Bea-gif" src="https://im.ezgif.com/tmp/ezgif-1-250c544f4c.gif">-->
+ <img align="right" height="169" alt="Bea-707" src="https://64.media.tumblr.com/161fe8b55c60bc79dd05d7f9be27ee2b/95757ed8e45eba00-03/s640x960/efd98e66df051028b2cb729ffe4f64982c75fb7b.gifv"> 
  </div>
   
   ##
