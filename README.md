@@ -39,7 +39,7 @@ I have a profound interest in Full Stack development, new languages, Design Thin
  </div>
   
   ##
-<p align="center"> 𝒆𝒏𝒕𝒓𝒆 𝒆𝒎 𝒄𝒐𝒏𝒕𝒂𝒕𝒐:</p>
+<p align="center"> 💻 𝒆𝒏𝒕𝒓𝒆 𝒆𝒎 𝒄𝒐𝒏𝒕𝒂𝒕𝒐:</p>
  
  <div align="center">
   <a href="mailto:beatriz.fbcarneiro@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D94E41?style=for-the-badge&logo=Gmail&logoColor=FFFFFF" target="_blank"></a>
