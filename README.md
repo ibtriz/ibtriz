@@ -5,7 +5,7 @@
 
 <p>◦ Iniciei minha jornada pelo desenvolvimento de software participando do projeto PROPROFISSÃO 4.0 no Instituto PROA em Agosto de 2021, onde tive meu primeiro contato com linguagens de programação.</p>
 
-<p>◦  A área da tecnologia me atraiu pela sua diversidade em atuações e por envolver criatividade. Eu quero me desenvolver e aprender com toda a experiência e feedbacks que eu puder receber. Tenho um profundo interesse em Desenvolvimento e Design.</p>
+<p>◦  A área da tecnologia me atraiu pela sua diversidade em atuações e por envolver criatividade. Eu quero me desenvolver e aprender com toda a experiência e feedbacks que eu puder receber. Tenho um profundo interesse por Desenvolvimento e Design.</p>
 
 <p>◦ Fique a vontade para ver meus repositórios!!! </p>
 
