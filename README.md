@@ -3,6 +3,8 @@
 <!--  <img align="center" alt="Bea-GifNome3" height="50" src="http://2.bp.blogspot.com/-8_cqXjBfIp0/U2wlop1IswI/AAAAAAAAFtY/IYIQZkAY1Oo/s1600/Kirby+10.gif"/> -->
 <!-- <img align="center" alt="Bea-GifNome2" height="50" src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif"/> -->
 
+<img align="right" height="169" alt="Bea-707" src="img/kirby3.gif"> 
+
 <p>◦ Iniciei minha jornada pelo desenvolvimento de software participando do projeto PROPROFISSÃO 4.0 no Instituto PROA em Agosto de 2021, onde tive meu primeiro contato com linguagens de programação.</p>
 
 <p>◦  A área da tecnologia me atraiu pela sua diversidade em atuações e por envolver criatividade. Eu quero me desenvolver e aprender com toda a experiência e feedbacks que eu puder receber. Tenho um profundo interesse por Desenvolvimento e Design.</p>
