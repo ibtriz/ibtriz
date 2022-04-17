@@ -9,8 +9,8 @@
 
 <p>◦ Fique a vontade para ver meus repositórios!!!</p>
 
->📚 *I started my journey through the software development studying Java on PROA Institute on August 2021, where I got my first interactions with programming languages. Now, by the OneBitCode course, I'm studying to become a Full Stack JavaScript developer.  <br><br>
-👩🏻‍💻 I have a profound interest in Full Stack development, new languages, Design Thinking, digital art, Human-Computer Interaction, 3D modeling, Game Development and a few more things.* <br>
+>📚 *I started my journey through the software development studying Java on PROA Institute on August 2021, where I got my first interactions with programming languages. Now, by the OneBitCode course, I'm studying stacks like Javascript ES6+, NodeJs, TypeScript, React, Sql (PostgreSQL)...  <br><br>
+👩🏻‍💻 The technology area attracted me because it involves creativity. I have a profound interest in Full Stack development, digital Design and Digital Products.* <br>
 <p>𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒔𝒆𝒆 𝒎𝒚 𝒓𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒊𝒆𝒔 !!!</p>
 
   <div>
