@@ -41,8 +41,8 @@
 <p align="center"> 𝒆𝒏𝒕𝒓𝒆 𝒆𝒎 𝒄𝒐𝒏𝒕𝒂𝒕𝒐:</p>
  
  <div align="center">
-  <a href="mailto:beatriz.fbcarneiro@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-FE2121?style=for-the-badge&logo=Gmail&logoColor=FFFFFF" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"> <img height="30" src="https://img.shields.io/badge/-Linkedin-FE2121?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"></a> 
+  <a href="mailto:beatriz.fbcarneiro@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-F22727?style=for-the-badge&logo=Gmail&logoColor=FFFFFF" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"> <img height="30" src="https://img.shields.io/badge/-Linkedin-F22727?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"></a> 
     <a href="https://discord.com/ibtriz#6329"><img height="30" src="https://img.shields.io/badge/Discord-FE2121?style=for-the-badge&logo=Discord&logoColor=FFFFFF" target="_blank"></a>
 </div>
  
