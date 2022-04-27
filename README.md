@@ -3,13 +3,13 @@
 <!--  <img align="center" alt="Bea-GifNome3" height="50" src="http://2.bp.blogspot.com/-8_cqXjBfIp0/U2wlop1IswI/AAAAAAAAFtY/IYIQZkAY1Oo/s1600/Kirby+10.gif"/> -->
 <!-- <img align="center" alt="Bea-GifNome2" height="50" src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif"/> -->
 
-<p><img alt="•" height="30" src="img/707_Heart.png"> Iniciei minha jornada pelo desenvolvimento de software participando do projeto PROPROFISSÃO 4.0 no Instituto PROA em Agosto de 2021, onde tive meu primeiro contato com linguagens de programação. Agora, enquanto busco minha primeira oportunidade no mercado de trabalho de tecnologia, estudo as tecnologias Javascript ES6+, NodeJs, TypeScript, ReactJS, VueJS, Sql(PostgreSQL), Java...</p>
+<p><img alt="•" height="30" src="img/707_Heart.png"> Iniciei minha jornada pelo desenvolvimento de software participando do projeto PROPROFISSÃO 4.0 no Instituto PROA em Agosto de 2021, onde tive meu primeiro contato com linguagens de programação. Agora, enquanto busco minha primeira oportunidade no mercado de trabalho de tecnologia, estudo as tecnologias Javascript ES6+, NodeJs, TypeScript, ReactJS, VueJS, Java...</p>
 
 <p><img alt="•" height="30" src="img/707_Heart.png">  A área da tecnologia me atraiu pela sua diversidade em atuações e por envolver criatividade. Eu quero me desenvolver e aprender com toda a experiência e feedbacks que eu puder receber. Tenho um profundo interesse por Desenvolvimento, Design e Produtos Digitais.</p>
 
 <a href="https://github.com/ibtriz?tab=repositories"> 𝑭𝒊𝒒𝒖𝒆 𝒂 𝒗𝒐𝒏𝒕𝒂𝒅𝒆 𝒑𝒂𝒓𝒂 𝒗𝒆𝒓 𝒎𝒆𝒖 𝒈𝒊𝒕𝒉𝒖𝒃!!!</a>
 
-><img alt="•" height="30" src="img/707_Heart.png"> *I started my journey through the software development studying Java on PROA Institute on August 2021, where I got my first interactions with programming languages. While I'm looking for my first opportunity of job in the Tech area, by the OneBitCode course, I'm studying the technologies Javascript ES6+, NodeJs, TypeScript, ReactJS, VueJS, Sql(PostgreSQL), Java...  <br><br>
+><img alt="•" height="30" src="img/707_Heart.png"> *I started my journey through the software development studying Java on PROA Institute on August 2021, where I got my first interactions with programming languages. While I'm looking for my first opportunity of job in the Tech area, by the OneBitCode course, I'm studying the technologies Javascript ES6+, NodeJs, TypeScript, ReactJS, VueJS, Java...  <br><br>
 <img alt="•" height="30" src="img/707_Heart.png"> The technology area attracted me because it involves creativity. I have a profound interest in Full Stack development, digital Design and Digital Products.* <br>
 *<p>𝐟𝐞𝐞𝐥 𝐟𝐫𝐞𝐞 𝐭𝐨 𝐬𝐞𝐞 𝐦𝐲 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬 !!!</p>*
 
