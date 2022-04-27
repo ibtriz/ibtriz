@@ -38,7 +38,7 @@
  </div>
   
   ##
-<p align="center"> 💻 𝒆𝒏𝒕𝒓𝒆 𝒆𝒎 𝒄𝒐𝒏𝒕𝒂𝒕𝒐:</p>
+<p align="center"> <img align="center" alt="Bea-GifNome" height="30" src="img/707_Heart.png"> 𝒆𝒏𝒕𝒓𝒆 𝒆𝒎 𝒄𝒐𝒏𝒕𝒂𝒕𝒐: <img align="center" alt="Bea-GifNome" height="30" src="img/707_Heart.png"></p>
  
  <div align="center">
   <a href="mailto:beatriz.fbcarneiro@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-FE2121?style=for-the-badge&logo=Gmail&logoColor=FFFFFF" target="_blank"></a>
