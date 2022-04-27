@@ -11,17 +11,15 @@
 
 >📚 *I started my journey through the software development studying Java on PROA Institute on August 2021, where I got my first interactions with programming languages. Now, by the OneBitCode course, I'm studying technologies like Javascript ES6+, NodeJs, TypeScript, React, Sql (PostgreSQL)...  <br><br>
 👩🏻‍💻 The technology area attracted me because it involves creativity. I have a profound interest in Full Stack development, digital Design and Digital Products.* <br>
-<p>𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒔𝒆𝒆 𝒎𝒚 𝒓𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒊𝒆𝒔 !!!</p>
+*<p>𝐟𝐞𝐞𝐥 𝐟𝐫𝐞𝐞 𝐭𝐨 𝐬𝐞𝐞 𝐦𝐲 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬 !!!</p>*
 
   <div>
   <a href="https://github.com/ibtriz">
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtriz&layout=compact&langs_count=7&theme=aura"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ibtriz&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
 </div>
-
+<br>
 <div style="display: inline_block" align="center">
- <br>
- <p align="center">𝒕𝒆𝒄𝒏𝒐𝒍𝒐𝒈𝒊𝒂𝒔 𝒒𝒖𝒆 𝒆𝒔𝒕𝒐𝒖 𝒆𝒔𝒕𝒖𝒅𝒂𝒏𝒅𝒐:</p>
   <!-- <img align="center" alt="Bea-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bea-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">-->
   <!--   <img align="center" alt="Bea-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"> -->
