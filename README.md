@@ -9,7 +9,7 @@
 
 <a href="https://github.com/ibtriz?tab=repositories"> 𝑭𝒊𝒒𝒖𝒆 𝒂 𝒗𝒐𝒏𝒕𝒂𝒅𝒆 𝒑𝒂𝒓𝒂 𝒗𝒆𝒓 𝒎𝒆𝒖 𝒈𝒊𝒕𝒉𝒖𝒃!!!</a>
 
-<img alt="•" height="30" src="img/707_Heart.png"> *I started my journey through the software development studying Java on PROA Institute on August 2021, where I got my first interactions with programming languages. While I'm looking for my first opportunity of job in the Tech area, by the OneBitCode course, I'm studying the technologies Javascript ES6+, NodeJs, TypeScript, ReactJS, VueJS, Sql(PostgreSQL), Java...  <br><br>
+><img alt="•" height="30" src="img/707_Heart.png"> *I started my journey through the software development studying Java on PROA Institute on August 2021, where I got my first interactions with programming languages. While I'm looking for my first opportunity of job in the Tech area, by the OneBitCode course, I'm studying the technologies Javascript ES6+, NodeJs, TypeScript, ReactJS, VueJS, Sql(PostgreSQL), Java...  <br><br>
 <img alt="•" height="30" src="img/707_Heart.png"> The technology area attracted me because it involves creativity. I have a profound interest in Full Stack development, digital Design and Digital Products.* <br>
 *<p>𝐟𝐞𝐞𝐥 𝐟𝐫𝐞𝐞 𝐭𝐨 𝐬𝐞𝐞 𝐦𝐲 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬 !!!</p>*
 
