@@ -44,6 +44,7 @@
   <a href="mailto:beatriz.fbcarneiro@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-F22727?style=for-the-badge&logo=Gmail&logoColor=FFFFFF" target="_blank"></a>
   <a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"> <img height="30" src="https://img.shields.io/badge/-Linkedin-F22727?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"></a> 
     <a href="https://discord.com/ibtriz#6329"><img height="30" src="https://img.shields.io/badge/Discord-F22727?style=for-the-badge&logo=Discord&logoColor=FFFFFF" target="_blank"></a>
+      <a href="https://www.figma.com/@ibtriz"><img height="30" src="https://img.shields.io/badge/Figma-F22727?style=for-the-badge&logo=Figma&logoColor=FFFFFF" target="_blank"></a>
 </div>
  
 <!-- ![Snake animation](https://github.com/ibtriz/ibtriz/blob/output/github-contribution-grid-snake.svg) -->
