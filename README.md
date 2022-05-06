@@ -35,8 +35,11 @@
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtriz&layout=compact&langs_count=7&theme=rose_pine"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ibtriz&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
 </div>
-<br>
-<div style="display: inline_block" align="center">
+  
+  ##
+  
+<div style="display: inline_block" align="center"> 
+ <p align="center"> 𝒍𝒊𝒏𝒈𝒖𝒂𝒈𝒆𝒏𝒔 𝒅𝒆 𝒄𝒐𝒏𝒉𝒆𝒄𝒊𝒎𝒆𝒏𝒕𝒐: </p>
   <!-- <img align="center" alt="Bea-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bea-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">-->
   <!--   <img align="center" alt="Bea-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"> -->
@@ -45,13 +48,13 @@
   <img align="center" alt="Bea-TS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
    <img align="center" alt="Bea-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Bea-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Bea-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+ <!--<img align="center" alt="Bea-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> -->
  <img align="center" alt="Bea-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Bea-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg"> 
+  <!--<img align="center" alt="Bea-Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg"> -->
 <img align="center" alt="Bea-mySQL" height="30" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg"/>
  <img align="center" alt="Bea-JAVA" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> 
  <!--<img align="left" height="169" alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=22dowrowmfemuzhjxqrymqq5q&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=22dowrowmfemuzhjxqrymqq5q&cover_image=true&theme=compact">-->
- <img align="right" height="179" alt="707" src="https://64.media.tumblr.com/161fe8b55c60bc79dd05d7f9be27ee2b/95757ed8e45eba00-03/s640x960/efd98e66df051028b2cb729ffe4f64982c75fb7b.gifv"> 
+ <img align="right" height="200" alt="707" src="https://64.media.tumblr.com/161fe8b55c60bc79dd05d7f9be27ee2b/95757ed8e45eba00-03/s640x960/efd98e66df051028b2cb729ffe4f64982c75fb7b.gifv"> 
  </div>
   
   ##
