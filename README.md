@@ -1,13 +1,27 @@
 ### <p align="center"> <img align="center" alt="Bea-GifNome" height="45" src="img/boo.gif"> 𝒉𝒆𝒚, 𝒆𝒖 𝒔𝒐𝒖 𝒂 𝑩𝒆𝒂𝒕𝒓𝒊𝒛  <img align="center" alt="Bea-GifNome" height="45" src="img/boo.gif"></p> 
 ##
-<!--  <img align="center" alt="Bea-GifNome3" height="50" src="http://2.bp.blogspot.com/-8_cqXjBfIp0/U2wlop1IswI/AAAAAAAAFtY/IYIQZkAY1Oo/s1600/Kirby+10.gif"/> -->
-<!-- <img align="center" alt="Bea-GifNome2" height="50" src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif"/> -->
-
-  <!--<a href="https://app.daily.dev/ibtriz"><img align="right" src="https://api.daily.dev/devcards/64f4c6f9f1554510aec94d03234d1f2d.png?r=9t2" height="400" alt="Beatriz's Dev Card"/></a>-->
-  
+<!-- 
+<img align="center" alt="Bea-GifNome3" height="50" src="http://2.bp.blogspot.com/-8_cqXjBfIp0/U2wlop1IswI/AAAAAAAAFtY/IYIQZkAY1Oo/s1600/Kirby+10.gif"/>
+-->
+<!--
+<img align="center" alt="Bea-GifNome2" height="50" src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif"/>
+-->
+<!--
+<a href="https://app.daily.dev/ibtriz"><img align="right" src="https://api.daily.dev/devcards/64f4c6f9f1554510aec94d03234d1f2d.png?r=9t2" height="400" alt="Beatriz's Dev Card"/></a>
+-->
 <p><img alt="•" height="30" src="img/707_Heart.png"> Iniciei minha jornada pelo desenvolvimento de software participando do projeto PROPROFISSÃO 4.0 no Instituto PROA em Agosto de 2021, onde tive meu primeiro contato com linguagens de programação. Agora, enquanto busco minha primeira oportunidade no mercado de trabalho de tecnologia, estudo as tecnologias Javascript ES6+, NodeJs, TypeScript, ReactJS, VueJS e Java...</p>
 
 <p><img alt="•" height="30" src="img/707_Heart.png">  A área da tecnologia me atraiu pela sua diversidade em atuações e por envolver criatividade. Eu quero me desenvolver e aprender com toda a experiência e feedbacks que eu puder receber. Tenho um profundo interesse por Desenvolvimento, Design e Produtos Digitais.</p>
+
+<!--
+<p><img alt="•" align="center" height="30" src="img/707_Heart.png"> Ex Aluna do Projeto PROPROFISSÃO 4.0</p>
+<p><img alt="•" align="center" height="30" src="img/707_Heart.png"> Buscando minha primeira oportunidade na área de Tecnologia</p>
+<p><img alt="•" align="center" height="30" src="img/707_Heart.png"> Tenho um profundo interesse em Desenvolvimento, Design e Produtos Digitais</p>
+<p><img alt="•" align="center" height="30" src="img/707_Heart.png"> Também sou apaixonada pelo estudo de línguas estrangeiras</p>
+<p><img alt="•" align="center" height="30" src="img/707_Heart.png"> Estudando pelo OneBitCode:  Javascript ES6+, NodeJs, TypeScript, ReactJS</p>
+<p><img alt="•" align="center" height="30" src="img/707_Heart.png"> Certificada em Java pelo SENAC</p>
+-->
+
 
 <a href="https://github.com/ibtriz?tab=repositories"> 𝑭𝒊𝒒𝒖𝒆 𝒂 𝒗𝒐𝒏𝒕𝒂𝒅𝒆 𝒑𝒂𝒓𝒂 𝒗𝒆𝒓 𝒎𝒆𝒖 𝒈𝒊𝒕𝒉𝒖𝒃!!!</a>
 
