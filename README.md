@@ -9,17 +9,18 @@
 <!--
 <a href="https://app.daily.dev/ibtriz"><img src="https://api.daily.dev/devcards/64f4c6f9f1554510aec94d03234d1f2d.png?r=knk" width="400" alt="Beatriz's Dev Card"/></a>
 -->
+
 <p><img alt="•" height="30" src="img/707_Heart.png"> Iniciei minha jornada pelo desenvolvimento de software participando do projeto PROPROFISSÃO 4.0 no Instituto PROA em Agosto de 2021, onde tive meu primeiro contato com linguagens de programação. Agora, enquanto busco minha primeira oportunidade no mercado de trabalho de tecnologia, estudo as tecnologias Javascript ES6+, NodeJs, TypeScript, ReactJS, VueJS e Java...</p>
 
 <p><img alt="•" height="30" src="img/707_Heart.png">  A área da tecnologia me atraiu pela sua diversidade em atuações e por envolver criatividade. Eu quero me desenvolver e aprender com toda a experiência e feedbacks que eu puder receber. Tenho um profundo interesse por Desenvolvimento, Design e Produtos Digitais.</p>
 
 <!--
-<p><img alt="•" align="center" height="30" src="img/707_Heart.png"> Ex Aluna do Projeto PROPROFISSÃO 4.0</p>
-<p><img alt="•" align="center" height="30" src="img/707_Heart.png"> Buscando minha primeira oportunidade na área de Tecnologia</p>
-<p><img alt="•" align="center" height="30" src="img/707_Heart.png"> Tenho um profundo interesse em Desenvolvimento, Design e Produtos Digitais</p>
-<p><img alt="•" align="center" height="30" src="img/707_Heart.png"> Também sou apaixonada pelo estudo de línguas estrangeiras</p>
-<p><img alt="•" align="center" height="30" src="img/707_Heart.png"> Estudando pelo OneBitCode:  Javascript ES6+, NodeJs, TypeScript, ReactJS</p>
-<p><img alt="•" align="center" height="30" src="img/707_Heart.png"> Certificada em Java pelo SENAC</p>
+<p align="center" ><img alt="•" align="center" height="30" src="img/707_Heart.png"> Ex Aluna do Projeto PROPROFISSÃO 4.0</p>
+<p align="center"><img alt="•" align="center" height="30" src="img/707_Heart.png"> Buscando minha primeira oportunidade na área de Tecnologia</p>
+<p align="center"><img alt="•" align="center" height="30" src="img/707_Heart.png"> Tenho um profundo interesse em Desenvolvimento, Design e Produtos Digitais</p>
+<p align="center"><img alt="•" align="center" height="30" src="img/707_Heart.png"> Também sou apaixonada pelo estudo de línguas estrangeiras</p>
+<p align="center"><img alt="•" align="center" height="30" src="img/707_Heart.png"> Estudando pelo OneBitCode:  Javascript ES6+, NodeJs, TypeScript, ReactJS</p>
+<p align="center"><img alt="•" align="center" height="30" src="img/707_Heart.png"> Certificada em Java pelo SENAC</p>
 -->
 
 
