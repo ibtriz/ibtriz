@@ -10,7 +10,7 @@
 <a href="https://app.daily.dev/ibtriz"><img src="https://api.daily.dev/devcards/64f4c6f9f1554510aec94d03234d1f2d.png?r=knk" width="400" alt="Beatriz's Dev Card"/></a>
 -->
 
-<p><img alt="•" height="30" src="img/707_Heart.png"> Iniciei minha jornada participando do projeto PROPROFISSÃO 4.0 no Instituto PROA em Agosto de 2021, onde tive meu primeiro contato com linguagens de programação.</p>
+<p><img alt="•" height="30" src="img/707_Heart.png"> Iniciei minha jornada participando do projeto PROPROFISSÃO 4.0 no Instituto PROA em Agosto de 2021, onde tive meu primeiro contato com linguagens de programação e me certifiquei em Java pelo SENAC</p>
 
 <p><img alt="•" height="30" src="img/707_Heart.png">Enquanto busco minha primeira oportunidade no mercado de trabalho de tecnologia, estudo as tecnologias Javascript ES6+, NodeJs, TypeScript, ReactJS e Java.</p>
 
