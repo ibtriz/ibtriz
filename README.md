@@ -10,7 +10,9 @@
 <a href="https://app.daily.dev/ibtriz"><img src="https://api.daily.dev/devcards/64f4c6f9f1554510aec94d03234d1f2d.png?r=knk" width="400" alt="Beatriz's Dev Card"/></a>
 -->
 
-<p><img alt="•" height="30" src="img/707_Heart.png"> Iniciei minha jornada pelo desenvolvimento de software participando do projeto PROPROFISSÃO 4.0 no Instituto PROA em Agosto de 2021, onde tive meu primeiro contato com linguagens de programação. Agora, enquanto busco minha primeira oportunidade no mercado de trabalho de tecnologia, estudo as tecnologias Javascript ES6+, NodeJs, TypeScript, ReactJS, VueJS e Java...</p>
+<p><img alt="•" height="30" src="img/707_Heart.png"> Iniciei minha jornada participando do projeto PROPROFISSÃO 4.0 no Instituto PROA em Agosto de 2021, onde tive meu primeiro contato com linguagens de programação.</p>
+
+<p><img alt="•" height="30" src="img/707_Heart.png">Enquanto busco minha primeira oportunidade no mercado de trabalho de tecnologia, estudo as tecnologias Javascript ES6+, NodeJs, TypeScript, ReactJS e Java.</p>
 
 <p><img alt="•" height="30" src="img/707_Heart.png">  A área da tecnologia me atraiu pela sua diversidade em atuações e por envolver criatividade. Eu quero me desenvolver e aprender com toda a experiência e feedbacks que eu puder receber. Tenho um profundo interesse por Desenvolvimento, Design e Produtos Digitais.</p>
 
@@ -27,7 +29,7 @@
 <a href="https://github.com/ibtriz?tab=repositories"> 𝑭𝒊𝒒𝒖𝒆 𝒂 𝒗𝒐𝒏𝒕𝒂𝒅𝒆 𝒑𝒂𝒓𝒂 𝒗𝒆𝒓 𝒎𝒆𝒖 𝒈𝒊𝒕𝒉𝒖𝒃!!!</a>
 
 
-><img alt="•" height="30" src="img/707_Heart.png"> *I started my journey through the software development studying Java on PROA Institute on August 2021, where I got my first interactions with programming languages. While I'm looking for my first opportunity of job in the Tech area, by the OneBitCode course, I'm studying the technologies Javascript ES6+, NodeJs, TypeScript, ReactJS, VueJS and Java...  <br><br>
+><img alt="•" height="30" src="img/707_Heart.png"> *I started my journey through the software development studying Java on PROA Institute on August 2021, where I got my first interactions with programming languages. While I'm looking for my first opportunity of job in the Tech area, by the OneBitCode course, I'm studying the technologies Javascript ES6+, NodeJs, TypeScript, ReactJS and Java...  <br><br>
 <img alt="•" height="30" src="img/707_Heart.png"> The technology area attracted me because it involves creativity. I have a profound interest in Full Stack development, digital Design and Digital Products.* <br>
 *<p>𝐟𝐞𝐞𝐥 𝐟𝐫𝐞𝐞 𝐭𝐨 𝐬𝐞𝐞 𝐦𝐲 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬 !!!</p>*
 
