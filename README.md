@@ -7,7 +7,7 @@
 <img align="center" alt="Bea-GifNome2" height="50" src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif"/>
 -->
 <!--
-<a href="https://app.daily.dev/ibtriz"><img align="right" src="https://api.daily.dev/devcards/64f4c6f9f1554510aec94d03234d1f2d.png?r=9t2" height="400" alt="Beatriz's Dev Card"/></a>
+<a href="https://app.daily.dev/ibtriz"><img src="https://api.daily.dev/devcards/64f4c6f9f1554510aec94d03234d1f2d.png?r=knk" width="400" alt="Beatriz's Dev Card"/></a>
 -->
 <p><img alt="•" height="30" src="img/707_Heart.png"> Iniciei minha jornada pelo desenvolvimento de software participando do projeto PROPROFISSÃO 4.0 no Instituto PROA em Agosto de 2021, onde tive meu primeiro contato com linguagens de programação. Agora, enquanto busco minha primeira oportunidade no mercado de trabalho de tecnologia, estudo as tecnologias Javascript ES6+, NodeJs, TypeScript, ReactJS, VueJS e Java...</p>
 
