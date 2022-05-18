@@ -9,35 +9,10 @@
 <!--
 <a href="https://app.daily.dev/ibtriz"><img src="https://api.daily.dev/devcards/64f4c6f9f1554510aec94d03234d1f2d.png?r=knk" width="400" alt="Beatriz's Dev Card"/></a>
 -->
-<!--
-<p><img alt="•" height="30" src="img/707_Heart.png"> Iniciei minha jornada participando do projeto PROPROFISSÃO 4.0 no Instituto PROA em Agosto de 2021, onde tive meu primeiro contato com linguagens de programação.</p>
-<p><img alt="•" height="30" src="img/707_Heart.png">Enquanto busco minha primeira oportunidade no mercado de trabalho de tecnologia, estudo as tecnologias Javascript ES6+, ReactJS, NodeJs, TypeScript e Java.</p>
+<!---->
+<p><img alt="•" height="30" src="img/707_Heart.png"> Iniciei minha jornada participando do projeto PROPROFISSÃO 4.0 no Instituto PROA em Agosto de 2021, onde tive meu primeiro contato com linguagens de programação. Estudo pelo OneBitCode: Javascript ES6+, NodeJs, TypeScript, ReactJS.</p>
 <p><img alt="•" height="30" src="img/707_Heart.png">  A área da tecnologia me atraiu pela sua diversidade em atuações e por envolver criatividade. Eu quero me desenvolver e aprender com toda a experiência e feedbacks que eu puder receber. Tenho um profundo interesse por Desenvolvimento, Design e Produtos Digitais.</p>
 
-<p><img alt="•" align="center" height="30" src="img/707_Heart.png"> Ex Aluna do Projeto PROPROFISSÃO 4.0</p>
-<p><img alt="•" align="center" height="30" src="img/707_Heart.png"> Buscando minha primeira oportunidade na área de Tecnologia</p>
-<p><img alt="•" align="center" height="30" src="img/707_Heart.png"> Tenho um profundo interesse em Desenvolvimento, Design e Produtos Digitais</p>
-<p><img alt="•" align="center" height="30" src="img/707_Heart.png"> Também sou apaixonada pelo estudo de línguas estrangeiras</p>
-<p><img alt="•" align="center" height="30" src="img/707_Heart.png"> Estudando pelo OneBitCode:  Javascript ES6+, NodeJs, TypeScript, ReactJS</p>
-<p><img alt="•" align="center" height="30" src="img/707_Heart.png"> Certificada em Java pelo SENAC</p>
--->
-<p align="left">
- 📚 Iniciei minha jornada pelo desenvolvimento de software participando do projeto PROPROFISSÃO 4.0 no Instituto PROA em Agosto de 2021, onde tive meu primeiro contato com linguagens de programação. 
-</p>
-<p align="left">
- ⌨️ Busco minha primeira oportunidade na área de Tecnologia.
-</p>
-<p align="left">
- ✨Tenho um profundo interesse em Desenvolvimento em Front End, Design e Produtos Digitais.
-</p>
-
-<p align="left">
-👩🏻‍💻 Estudo pelo OneBitCode: Javascript ES6+, NodeJs, TypeScript, ReactJS.
-</p>
-
-<p align="left">
-🌍 Também sou apaixonada pelo estudo de línguas estrangeiras.
-</p>
 
 <a href="https://github.com/ibtriz?tab=repositories"> 𝑭𝒊𝒒𝒖𝒆 𝒂 𝒗𝒐𝒏𝒕𝒂𝒅𝒆 𝒑𝒂𝒓𝒂 𝒗𝒆𝒓 𝒎𝒆𝒖𝒔 𝒑𝒓𝒐𝒋𝒆𝒕𝒐𝒔!!!</a>
 
