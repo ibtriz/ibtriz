@@ -1,5 +1,5 @@
-### <p align="center"> <img align="center" alt="Bea-GifNome" height="45" src="img/boo.gif"> 𝒉𝒆𝒚, 𝒆𝒖 𝒔𝒐𝒖 𝒂 𝑩𝒆𝒂𝒕𝒓𝒊𝒛  <img align="center" alt="Bea-GifNome" height="45" src="img/boo.gif"></p> 
-##
+### <p align="center"><img align="center" alt="Bea-GifNome" height="45" src="img/boo.gif">  𝒉𝒆𝒚, 𝒆𝒖 𝒔𝒐𝒖 𝒂 𝑩𝒆𝒂𝒕𝒓𝒊𝒛  <img align="center" alt="Bea-GifNome" height="45" src="img/boo.gif"></p> 
+
 <!-- 
 <img align="center" alt="Bea-GifNome3" height="50" src="http://2.bp.blogspot.com/-8_cqXjBfIp0/U2wlop1IswI/AAAAAAAAFtY/IYIQZkAY1Oo/s1600/Kirby+10.gif"/>
 -->
@@ -20,7 +20,7 @@
 ><img alt="•" height="30" src="img/707_Heart.png"> *I started my journey through the software development studying Java on PROA Institute on August 2021, where I got my first interactions with programming languages. By the OneBitCode course, I'm studying the technologies Javascript ES6+, NodeJs, TypeScript and ReactJS.  <br><br>
 <img alt="•" height="30" src="img/707_Heart.png"> The technology area attracted me because it involves creativity. I have a profound interest in Full Stack development, digital Design and Digital Products.* <br>
 *<p>𝐟𝐞𝐞𝐥 𝐟𝐫𝐞𝐞 𝐭𝐨 𝐬𝐞𝐞 𝐦𝐲 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬 !!!</p>*
-
+##
   <div>
   <a href="https://github.com/ibtriz">
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtriz&layout=compact&langs_count=7&theme=rose_pine"/>
