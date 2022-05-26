@@ -26,9 +26,7 @@
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtriz&layout=compact&langs_count=7&theme=rose_pine"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ibtriz&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
 </div>
-  
-  ##
-  
+<br>
 <div style="display: inline_block" align="center"> 
 <!-- <p align="center"> 𝒍𝒊𝒏𝒈𝒖𝒂𝒈𝒆𝒏𝒔 𝒅𝒆 𝒄𝒐𝒏𝒉𝒆𝒄𝒊𝒎𝒆𝒏𝒕𝒐: </p> -->
   <!-- <img align="center" alt="Bea-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
