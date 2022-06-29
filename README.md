@@ -11,8 +11,8 @@
 -->
 <!---->
 <p><img alt="•" height="30" src="img/707_Heart.png"> Criativa Apaixonada por Tecnologia, Desenvolvedora Front-End (certificada pelo SENAC) e grande entusiasta por Gestão de Produtos Digitais. </p>
-<p><img alt="•" height="30" src="img/707_Heart.png">𝒉𝒂𝒓𝒅 𝒔𝒌𝒊𝒍𝒍𝒔: User Experience | Figma | HTML | CSS | Javascript | Git | ReactJs | Styled Components | Conventional Commits | Consumo de API </p>
-<p><img alt="•" height="30" src="img/707_Heart.png">Iniciei minha jornada na área Tech participando do projeto PROPROFISSÃO 4.0 no Instituto PROA em Agosto de 2021, onde tive a oportunidade de aprender desenvolvimento Web, além das habilidades técnicas, desenvolvi ótimas habilidades de comunicação e planejamento. Nesse momento, estou estudando Design UI/UX pela TheStarter com uma bolsa de 100% e estudo pelo OneBitCode as Tecnologias: Javascript ES6+, NodeJs, TypeScript, ReactJS, MongoDB.</p>
+<p><img alt="•" height="30" src="img/707_Heart.png">𝒉𝒂𝒓𝒅 𝒔𝒌𝒊𝒍𝒍𝒔: User Experience | Figma | HTML | CSS | Javascript | Git | ReactJs | Styled Components | Consumo de API </p>
+<p><img alt="•" height="30" src="img/707_Heart.png">Iniciei minha jornada na área Tech participando do projeto PROPROFISSÃO 4.0 no Instituto PROA em Agosto de 2021, onde tive a oportunidade de aprender desenvolvimento Web, além das habilidades técnicas, desenvolvi ótimas habilidades de comunicação e planejamento. Nesse momento, estou estudando Design UI/UX pela TheStarter com uma bolsa de 100% e realizando o curso Full Stack Javascript no OneBitCode focado em Tecnologias como: Javascript ES6+, NodeJs, TypeScript, ReactJS, MongoDB.</p>
 
 
 <a href="https://github.com/ibtriz?tab=repositories"> 𝑭𝒊𝒒𝒖𝒆 𝒂 𝒗𝒐𝒏𝒕𝒂𝒅𝒆 𝒑𝒂𝒓𝒂 𝒗𝒆𝒓 𝒎𝒆𝒖𝒔 𝒑𝒓𝒐𝒋𝒆𝒕𝒐𝒔!!!</a>
