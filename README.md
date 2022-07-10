@@ -54,5 +54,11 @@
   <a href="mailto:beatriz.fbcarneiro@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-F22727?style=for-the-badge&logo=Gmail&logoColor=FFFFFF" target="_blank"></a>
   <a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"> <img height="30" src="https://img.shields.io/badge/-Linkedin-F22727?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"></a> 
     <a href="https://discord.com/ibtriz#6329"><img height="30" src="https://img.shields.io/badge/Discord-F22727?style=for-the-badge&logo=Discord&logoColor=FFFFFF" target="_blank"></a>
-</div>
+    <!--
+    <a href="https://dev.to/ibtriz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ibtriz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" height="30" width="40" /></a>
+<a href="https://hashnode.com/@ibtriz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ibtriz" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@ibtriz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@ibtriz" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/ibtriz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ibtriz" height="30" width="40" /></a> -->
+</div> 
 <!-- ![Snake animation](https://github.com/ibtriz/ibtriz/blob/output/github-contribution-grid-snake.svg) -->
