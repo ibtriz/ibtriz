@@ -1,4 +1,4 @@
-### <p align="center"><img align="center" alt="Bea-GifNome" height="45" src="img/boo.gif">  𝒉𝒆𝒚, 𝒆𝒖 𝒔𝒐𝒖 𝒂 𝑩𝒆𝒂𝒕𝒓𝒊𝒛  <img align="center" alt="Bea-GifNome" height="45" src="img/boo.gif"></p> 
+## <p align="center"><img align="center" alt="Bea-GifNome" height="45" src="img/boo.gif">  𝒉𝒆𝒚, 𝒆𝒖 𝒔𝒐𝒖 𝒂 𝑩𝒆𝒂𝒕𝒓𝒊𝒛  <img align="center" alt="Bea-GifNome" height="45" src="img/boo.gif"></p> 
 
 <!-- 
 <img align="center" alt="Bea-GifNome3" height="50" src="http://2.bp.blogspot.com/-8_cqXjBfIp0/U2wlop1IswI/AAAAAAAAFtY/IYIQZkAY1Oo/s1600/Kirby+10.gif"/>
