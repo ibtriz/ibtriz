@@ -18,7 +18,7 @@
 <br>
 <div style="display: inline_block" align="center">
 <a href="https://dev.to/ibtriz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ibtriz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" height="30" width="40" /></a>
 <a href="https://hashnode.com/@ibtriz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ibtriz" height="30" width="40" /></a>
 <a href="https://medium.com/@ibtriz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@ibtriz" height="30" width="40" /></a>
 <img align="right" height="179" alt="707" src="https://64.media.tumblr.com/161fe8b55c60bc79dd05d7f9be27ee2b/95757ed8e45eba00-03/s640x960/efd98e66df051028b2cb729ffe4f64982c75fb7b.gifv">
