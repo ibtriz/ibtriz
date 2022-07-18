@@ -1,6 +1,6 @@
 ## <p align="center"><img align="center" alt="Bea-GifNome" height="45" src="img/boo.gif"> 𝒉𝒆𝒚, 𝒆𝒖 𝒔𝒐𝒖 𝒂 𝑩𝒆𝒂𝒕𝒓𝒊𝒛 <img align="center" alt="Bea-GifNome" height="45" src="img/boo.gif"></p>
 
-#### <p align="center"> <img alt="•" height="30" align="center" src="img/707_Heart.png"> 𝐉𝐫 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 (𝐑𝐞𝐚𝐜𝐭𝐉𝐒 - 𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭) | Product Management enthusiast  <img alt="•" height="30" src="img/707_Heart.png" align="center"></p>
+#### <p align="center"> <img alt="•" height="30" align="center" src="img/707_Heart.png"> 𝐉𝐫 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 (𝐑𝐞𝐚𝐜𝐭𝐉𝐒 - 𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭) <img alt="•" height="30" src="img/707_Heart.png" align="center"></p>
 
 <div style="display: inline_block" align="center">
 <a href="https://dev.to/ibtriz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ibtriz" height="30" width="40" /></a>
