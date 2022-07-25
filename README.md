@@ -14,7 +14,7 @@
 <p> Criativa apaixonada por Tecnologia, Desenvolvedora Front-End e grande entusiasta por gestão de Produtos Digitais. Fascinada por capacidade de priorização de gestão, organização e tomada de decisão orientada a dados (data-driven).
 </p>
 
-> Creative Passionate about Technology, Front-End Developer and great enthusiast for Digital Product Management. Fascinated by the ability to prioritize management, organization and data-driven decision making.</p>
+> Creative Passionate about Technology, FrontEnd Developer and enthusiast for Digital Product Management. Fascinated by the ability to prioritize management, organization and data-driven decision making.</p>
 
 ##
 
