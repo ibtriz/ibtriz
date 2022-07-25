@@ -15,7 +15,7 @@
 <p> Criativa apaixonada por tecnologia, desenvolvedora FrontEnd (certificada pelo SENAC), grande entusiasta por gestão de Produtos Digitais, bacharelanda em Tecnologia da Informação (TI) e  Proana (Proprofissão 4.0 - Instituto PROA) Formada. Fascinada por Interfaces criativas, experiência do usuário e tomada de decisão orientada a dados (data-driven).
 </p>
 
-> Creative Passionate about Technology, FrontEnd Developer, enthusiast for Digital Product Management and Information technology (IT) graduating student. Fascinated by User Experience, organization and data-driven decision making.</p>
+> Creative passionate about technology, FrontEnd Developer, enthusiast for Digital Product Management and Information technology (IT) graduating student. Fascinated by User Experience, organization and data-driven decision making.</p>
 
 ##
 
