@@ -12,7 +12,7 @@
 
 ##
 
-<p> Criativa apaixonada por Tecnologia, Desenvolvedora Front-End e grande entusiasta por gestão de Produtos Digitais. Fascinada por capacidade de priorização de gestão, organização e tomada de decisão orientada a dados (data-driven).
+<p> Criativa apaixonada por tecnologia, desenvolvedora FrontEnd (certificada pelo SENAC), grande entusiasta por gestão de Produtos Digitais e bacharelanda em Tecnologia da Informação (TI). Fascinada por Interfaces criativas, organização e tomada de decisão orientada a dados (data-driven).
 </p>
 
 > Creative Passionate about Technology, FrontEnd Developer and enthusiast for Digital Product Management. Fascinated by the ability to prioritize management, organization and data-driven decision making.</p>
