@@ -5,14 +5,14 @@
 <div style="display: inline_block" align="center">
 <a href="https://dev.to/ibtriz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ibtriz" height="30" width="40" /></a>
 <a href="https://app.daily.dev/ibtriz" target="_blank"><img align="center" src="img/icons/dailydevicon.png" alt="ibtriz" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" height="30" width="40" /></a>
 <a href="https://hashnode.com/@ibtriz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ibtriz" height="30" width="40" /></a>
 <a href="https://medium.com/@ibtriz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@ibtriz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" height="28" width="40" /></a>
 </div>
 
 ##
 
-<p> Criativa apaixonada por Tecnologia, Desenvolvedora Front-End e grande entusiasta por gestão de Produtos Digitais. Fascinada por capacidade de priorização de gestão, organização e tomada de decisão orientada a dados (data-driven).
+<p> Criativa apaixonada por tecnologia, desenvolvedora FrontEnd (certificada pelo SENAC), grande entusiasta por gestão de Produtos Digitais e bacharelanda em Tecnologia da Informação (TI). Fascinada por Interfaces criativas, organização e tomada de decisão orientada a dados (data-driven).
 </p>
 
 > Creative Passionate about Technology, FrontEnd Developer and enthusiast for Digital Product Management. Fascinated by the ability to prioritize management, organization and data-driven decision making.</p>
