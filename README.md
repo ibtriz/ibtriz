@@ -1,4 +1,4 @@
-# <p align="center"><img align="center" alt="Bea-GifNome" height="45" src="img/gifs/boo.gif"> 𝒉𝒆𝒚, 𝒆𝒖 𝒔𝒐𝒖 𝒂 𝑩𝒆𝒂𝒕𝒓𝒊𝒛 <img align="center" alt="Bea-GifNome" height="45" src="img/gifs/boo.gif"></p>
+# <p align="center"><img align="center" alt="Bea-GifNome" height="45" src="img/gifs/boo.gif"> Oiee, pode me chamar de Bea <img align="center" alt="Bea-GifNome" height="45" src="img/gifs/boo.gif"></p>
 
 ### <p align="center"> <img alt="•" height="30" align="center" src="img/png/707_Heart.png"> 𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 | 𝐅𝐫𝐨𝐧𝐭 𝐄𝐧𝐝 <img alt="•" height="30" src="img/png/707_Heart.png" align="center"></p>
 
