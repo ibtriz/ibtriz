@@ -1,23 +1,17 @@
-# <p align="center"><img align="center" alt="Bea-GifNome" height="45" src="img/gifs/boo.gif"> Oiee, pode me chamar de Bea <img align="center" alt="Bea-GifNome" height="45" src="img/gifs/boo.gif"></p>
-
-### <p align="center"> <img alt="•" height="30" align="center" src="img/png/707_Heart.png"> 𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 | 𝐅𝐫𝐨𝐧𝐭 𝐄𝐧𝐝 <img alt="•" height="30" src="img/png/707_Heart.png" align="center"></p>
-
+## <p align="left"><img align="center" alt="Bea-GifNome" height="45" src="img/gifs/boo.gif"> 𝑯𝒊, 𝑩𝒆𝒂𝒕𝒓𝒊𝒛 𝒉𝒆𝒓𝒆!</p>
 <div style="display: inline_block" align="center">
 <a href="https://app.daily.dev/ibtriz" target="_blank"><img align="center" src="img/icons/dailydevicon.png" alt="ibtriz" height="30" width="30" /></a>
 <a href="https://medium.com/@ibtriz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@ibtriz" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" height="28" width="40" /></a>
-  <a href="[https://medium.com/@ibtriz](https://www.hackerrank.com/profile/ibtriz)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ibtriz" height="30" width="40" /></a>
+<a href="[https://medium.com/@ibtriz](https://www.hackerrank.com/profile/ibtriz)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ibtriz" height="30" width="40" /></a>
 </div>
 
 ##
 
-<p> Criativa apaixonada por tecnologia, desenvolvedora FrontEnd (certificada pelo SENAC), grande entusiasta por gestão de Produtos Digitais, bacharelanda em Tecnologia da Informação (TI) e  Proana (Proprofissão 4.0 - Instituto PROA) formada. Fascinada por Interfaces criativas, experiência do usuário e tomada de decisão orientada a dados (data-driven).
+<p align="left">Currently, I'm pursuing a degree in Information Technology at UNIVESP and have gained experience as an IT Apprentice at Banco Pan, specializing in Software Testing. I collaborated within an agile Scrum team, with a focus on investment products.
 </p>
 
-> Creative passionate about technology, FrontEnd Developer, enthusiast for Digital Product Management and Information technology (IT) graduating student. Fascinated by creative interfaces, User Experience and data-driven decision making.</p>
-
-##
-
+<p align="left">During my tenure at Banco Pan, I conducted functional, exploratory, and regression testing on both web platforms and mobile applications, specifically concentrating on the PoupaPAN product. This involved using AWS Device Farm services and conducting API testing with tools like Postman and Swagger. Additionally, I contributed to mapping scenarios and test cases using Gherkin and BDD.</p>
   <div>
   <a href="https://github.com/ibtriz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtriz&layout=compact&langs_count=7&theme=rose_pine"/>
