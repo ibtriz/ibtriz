@@ -3,7 +3,7 @@
 <a href="https://app.daily.dev/ibtriz" target="_blank"><img align="center" src="img/icons/dailydevicon.png" alt="ibtriz" height="30" width="30" /></a>
 <a href="https://medium.com/@ibtriz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@ibtriz" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" height="28" width="40" /></a>
-<a href="[https://medium.com/@ibtriz](https://www.hackerrank.com/profile/ibtriz)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ibtriz" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/ibtriz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ibtriz" height="30" width="40" /></a>
 </div>
 
 ##
