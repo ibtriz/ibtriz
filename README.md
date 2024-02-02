@@ -8,8 +8,8 @@
 
 ##
 
-<p align="left">Hi, Beatriz here! I'm a Digital Product Management Intern <a href="https://www.linkedin.com/company/itauusa/about/" target="_blank">@Itaú</a>.</p>
-<p align="left">Currently, I'm pursuing a degree in Information Technology at UNIVESP and have gained experience as an IT Apprentice at Banco Pan, specializing in Software Testing. I collaborated within an agile Scrum team, with a focus on investment products. </p>
+<p align="left">Hey, Beatriz here! I'm a Software Test Engineer and a Digital Product Management Intern <a href="https://www.linkedin.com/company/itauusa/about/" target="_blank">@Itaú</a></p>
+<p align="left"> I'm pursuing a degree in Information Technology at UNIVESP and have gained experience as an IT Apprentice at Banco Pan, specializing in Software Testing. I collaborated within an agile Scrum team, with a focus on investment products. </p>
 
 <p align="left">During my tenure at Banco Pan, I conducted functional, exploratory, and regression testing on both web platforms and mobile applications, specifically concentrating on the PoupaPAN product. This involved using AWS Device Farm services and conducting API testing with tools like Postman and Swagger. Additionally, I contributed to mapping scenarios and test cases using Gherkin and BDD.
 </p>
@@ -25,10 +25,9 @@
  </div>
   
   ##
-<p align="center"> 𝒆𝒏𝒕𝒓𝒆 𝒆𝒎 𝒄𝒐𝒏𝒕𝒂𝒕𝒐:</p>
+<p align="left"> Let's connect!</p>
  
- <div align="center">
-  <a href="mailto:beatriz.fbcarneiro@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-F22727?style=for-the-badge&logo=Gmail&logoColor=FFFFFF" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"> <img height="30" src="https://img.shields.io/badge/-Linkedin-F22727?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"></a> 
-<a href="https://discord.com/ibtriz#6329"><img height="30" src="https://img.shields.io/badge/Discord-F22727?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ <div align="left">
+  <a href="mailto:beatriz.fbcarneiro@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-8B0215?style=for-the-badge&logo=Gmail&logoColor=FFFFFF" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"> <img height="30" src="https://img.shields.io/badge/-Linkedin-8B0215?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"></a> 
 </div>
