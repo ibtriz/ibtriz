@@ -8,7 +8,7 @@
 
 ##
 
-<p align="left">Hey, Beatriz here! I'm a Software Test Engineer and a Digital Product Management Intern <a href="https://www.linkedin.com/company/itauusa/about/" target="_blank">@Itaú</a></p>
+<p align="left">Hey, Beatriz here! I'm a Software Test Engineer and a Data Analytics Intern @ <a href="https://www.linkedin.com/company/itauusa/about/" target="_blank">Itaú</a>.</p>
 <p align="left"> I'm pursuing a degree in Information Technology at UNIVESP and have gained experience as an IT Apprentice at Banco Pan, specializing in Software Testing. </p>
 
 <p align="left">I conducted functional, exploratory, and regression testing on both web platforms and mobile applications, specifically concentrating on the investment product. This involved using AWS Device Farm services and conducting API testing with tools like Postman and Swagger. Additionally, I contributed to mapping scenarios and test cases using Gherkin and BDD.
