@@ -1,4 +1,4 @@
-## <p align="left"><img align="center" alt="Bea-GifNome" height="45" src="img/gifs/boo.gif"> 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆,</p>
+## <p align="left"><img align="center" alt="Bea-GifNome" height="45" src="img/gifs/boo.gif"> 𝑯𝒆𝒚, 𝑰'𝒎 𝑩𝒆𝒂𝒕𝒓𝒊𝒛</p>
 <div style="display: inline_block" align="center">
 <a href="https://app.daily.dev/ibtriz" target="_blank"><img align="center" src="img/icons/dailydevicon.png" alt="ibtriz" height="30" width="30" /></a>
 <a href="https://medium.com/@ibtriz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@ibtriz" height="30" width="40" /></a>
@@ -8,7 +8,7 @@
 
 ##
 
-<p align="left">Hey, Beatriz here! I'm a Software Test Engineer and a Data Analytics Intern @ <a href="https://www.linkedin.com/company/itauusa/about/" target="_blank">Itaú</a>.</p>
+<p align="left">I'm a Software Test Engineer Enthusiast and currently, Data Analytics Intern @ <a href="https://www.linkedin.com/company/itauusa/about/" target="_blank">Itaú</a>.</p>
 <p align="left"> I'm pursuing a degree in Information Technology at UNIVESP and have gained experience as an IT Apprentice at Banco Pan, specializing in Software Testing. </p>
 
 <p align="left">I conducted functional, exploratory, and regression testing on both web platforms and mobile applications, specifically concentrating on the investment product. This involved using AWS Device Farm services and conducting API testing with tools like Postman and Swagger. Additionally, I contributed to mapping scenarios and test cases using Gherkin and BDD.
