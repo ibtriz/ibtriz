@@ -15,14 +15,13 @@
 
 - **Languages:** JavaScript, Java, SQL
 - **Testing and QA:** Gherkin, AWS Device Farm, Swagger, Postman, Knooly
-- **Methodologies:** Scrum, Agile
-- **Other Tools:** Git, Dynatrace, Confluence, IIS
-
+- **Methodologies:** Scrum
+- **Other Tools:** Git, Dynatrace, Confluence
 <!-- <p align="left">I conducted functional, exploratory, and regression testing on both web platforms and mobile applications, specifically concentrating on the investment product. This involved using AWS Device Farm services and conducting API testing with tools like Postman and Swagger. Additionally, I contributed to mapping scenarios and test cases using Gherkin and BDD.
 </p>
 -->
-
-  <div>
+#
+  <div align="center">
   <a href="https://github.com/ibtriz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtriz&layout=compact&langs_count=7&theme=rose_pine"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibtriz&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
@@ -34,9 +33,9 @@
  </div>
   
   ##
-<p align="left"> Let's connect!</p>
+### <p align="left"> Let's connect!</p>
  
- <div align="left">
+ <div align="center">
   <a href="mailto:beatriz.fbcarneiro@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-8B0215?style=for-the-badge&logo=Gmail&logoColor=FFFFFF" target="_blank"></a>
   <a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"> <img height="30" src="https://img.shields.io/badge/-Linkedin-8B0215?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"></a> 
 </div>
