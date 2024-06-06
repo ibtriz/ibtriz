@@ -1,4 +1,4 @@
-## <p align="left"><img align="center" alt="Bea-GifNome" height="45" src="img/gifs/boo.gif">    <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=8B0215&vCenter=true&random=false&width=336&height=30&lines=%F0%9D%91%AF%F0%9D%92%86%F0%9D%92%9A%2C+%F0%9D%91%B0'%F0%9D%92%8E+%F0%9D%91%A9%F0%9D%92%86%F0%9D%92%82%F0%9D%92%95%F0%9D%92%93%F0%9D%92%8A%F0%9D%92%9B" alt="Typing SVG" /></a></p>
+## <p align="left"><img align="center" alt="Bea-GifNome" height="45" src="img/gifs/boo.gif">    <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=8B0215&vCenter=true&random=false&width=336&height=30&lines=%F0%9D%91%AF%F0%9D%92%86%F0%9D%92%9A%2C+%F0%9D%91%B0'%F0%9D%92%8E+%F0%9D%91%A9%F0%9D%92%86%F0%9D%92%82%F0%9D%92%95%F0%9D%92%93%F0%9D%92%8A%F0%9D%92%9B" alt="Hey, I'm Beatriz" /></a></p>
 <div style="display: inline_block" align="center">
 <a href="https://app.daily.dev/ibtriz" target="_blank"><img align="center" src="img/icons/dailydevicon.png" alt="ibtriz" height="30" width="30" /></a>
 <a href="https://medium.com/@ibtriz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@ibtriz" height="30" width="40" /></a>
@@ -8,11 +8,20 @@
 
 ##
 
-<p align="left">I'm a Software Test Engineer Enthusiast and currently, Data Analytics Intern @ <a href="https://www.linkedin.com/company/itauusa/about/" target="_blank">Itaú</a>.</p>
+<p align="left">I'm a Junior Software Quality Engineer | QA Enthusiast and currently, Business Analytics | Footprint Intern @ <a href="https://www.linkedin.com/company/itauusa/about/" target="_blank">Itaú</a>.</p>
 <p align="left"> I'm pursuing a degree in Information Technology at UNIVESP and have gained experience as an IT Apprentice at Banco Pan, specializing in Software Testing. </p>
 
-<p align="left">I conducted functional, exploratory, and regression testing on both web platforms and mobile applications, specifically concentrating on the investment product. This involved using AWS Device Farm services and conducting API testing with tools like Postman and Swagger. Additionally, I contributed to mapping scenarios and test cases using Gherkin and BDD.
+### Tools and Technologies
+
+- **Languages:** JavaScript, Java, SQL
+- **Testing and QA:** Gherkin, AWS Device Farm, Swagger, Postman, Knooly
+- **Methodologies:** Scrum, Agile
+- **Other Tools:** Git, Dynatrace, Confluence, IIS
+
+<!-- <p align="left">I conducted functional, exploratory, and regression testing on both web platforms and mobile applications, specifically concentrating on the investment product. This involved using AWS Device Farm services and conducting API testing with tools like Postman and Swagger. Additionally, I contributed to mapping scenarios and test cases using Gherkin and BDD.
 </p>
+-->
+
   <div>
   <a href="https://github.com/ibtriz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtriz&layout=compact&langs_count=7&theme=rose_pine"/>
