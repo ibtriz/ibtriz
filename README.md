@@ -8,7 +8,7 @@
 
 ##
 
-<p align="left">I'm a Junior Software Quality Engineer | QA Enthusiast and currently, Business Analytics | Footprint Intern @ <a href="https://www.linkedin.com/company/itauusa/about/" target="_blank">Itaú</a>.</p>
+<p align="left">I'm a Junior Software Quality Engineer | QA Enthusiast and currently, Business Analytics Intern @ <a href="https://www.linkedin.com/company/itauusa/about/" target="_blank">Itaú</a>.</p>
 <p align="left"> I'm pursuing a degree in Information Technology at UNIVESP and have gained experience as an IT Apprentice at Banco Pan, specializing in Software Testing. </p>
 
 ### Tools and Technologies
