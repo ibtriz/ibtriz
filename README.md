@@ -14,7 +14,7 @@
 ### Tools and Technologies
 
 - **Languages:** JavaScript, Java, SQL
-- **Testing and QA:** Gherkin, AWS Device Farm, Swagger, Postman, Knooly
+- **Testing and QA:** Gherkin, AWS Device Farm, Swagger, Postman, Knooly, Selenium
 - **Methodologies:** Scrum
 - **Other Tools:** Git, Dynatrace, Confluence
 <!-- <p align="left">I conducted functional, exploratory, and regression testing on both web platforms and mobile applications, specifically concentrating on the investment product. This involved using AWS Device Farm services and conducting API testing with tools like Postman and Swagger. Additionally, I contributed to mapping scenarios and test cases using Gherkin and BDD.
