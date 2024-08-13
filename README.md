@@ -17,6 +17,14 @@
 - **Testing and QA:** Gherkin, AWS Device Farm, Swagger, Postman, Knooly, Selenium
 - **Methodologies:** Scrum
 - **Other Tools:** Git, Dynatrace, Confluence
+
+#### What I'm Currently Learning
+
+- Robot Framework
+- Cypress
+- Selenium
+- Appium
+- CI/CD pipelines
 <!-- <p align="left">I conducted functional, exploratory, and regression testing on both web platforms and mobile applications, specifically concentrating on the investment product. This involved using AWS Device Farm services and conducting API testing with tools like Postman and Swagger. Additionally, I contributed to mapping scenarios and test cases using Gherkin and BDD.
 </p>
 -->
