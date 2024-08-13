@@ -29,21 +29,22 @@ I'm pursuing a degree in Information Technology at UNIVESP, with hands-on experi
 - Appium
 - CI/CD Pipelines
 
-### Let's Connect!
-
+  <div align="center">
+<div align="left">
+  
+ ### Let's Connect!
+  
 Feel free to reach out to me for collaborations or just to connect!
-
 - [Email Me](mailto:beatriz.fbcarneiro@gmail.com)
 - [LinkedIn Profile](https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/)
+</div>
+  <img align="right" height="200" src="https://github.com/ibtriz/ibtriz/blob/main/img/gifs/kirby2.gif">
+</div>
 
 <div align="center">
   <a href="https://github.com/ibtriz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtriz&layout=compact&langs_count=7&theme=rose_pine"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibtriz&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
   </a>
-</div>
-
-<div align="center">
-  <img align="right" height="179" src="https://64.media.tumblr.com/161fe8b55c60bc79dd05d7f9be27ee2b/95757ed8e45eba00-03/s640x960/efd98e66df051028b2cb729ffe4f64982c75fb7b.gifv">
 </div>
 
