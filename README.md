@@ -28,7 +28,7 @@ I'm pursuing a degree in Information Technology at UNIVESP, with hands-on experi
 - Selenium
 - Appium
 - CI/CD Pipelines
-  <img align="right" height="200" src="https://github.com/ibtriz/ibtriz/blob/main/img/gifs/kirby2.gif">
+  <img align="right" height="210" src="img/gifs/kirby2.gif">
 
  ### Let's Connect!
  
