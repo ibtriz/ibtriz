@@ -28,18 +28,15 @@ I'm pursuing a degree in Information Technology at UNIVESP, with hands-on experi
 - Selenium
 - Appium
 - CI/CD Pipelines
+  <img align="right" height="200" src="https://github.com/ibtriz/ibtriz/blob/main/img/gifs/kirby2.gif">
 
-  <div align="center">
-<div align="left">
-  
  ### Let's Connect!
-  
+ 
 Feel free to reach out to me for collaborations or just to connect!
 - [Email Me](mailto:beatriz.fbcarneiro@gmail.com)
 - [LinkedIn Profile](https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/)
-</div>
-  <img align="right" height="200" src="https://github.com/ibtriz/ibtriz/blob/main/img/gifs/kirby2.gif">
-</div>
+
+  #
 
 <div align="center">
   <a href="https://github.com/ibtriz">
