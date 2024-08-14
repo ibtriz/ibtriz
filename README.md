@@ -17,15 +17,13 @@ I'm pursuing a degree in Information Technology at UNIVESP, with hands-on experi
 ### Skills and Technologies
 
 - **Languages:** JavaScript, Java, SQL
-- **Testing & QA:** Gherkin, AWS Device Farm, Swagger, Postman, Knooly, Selenium
+- **Testing & QA:** Gherkin, AWS Device Farm, Swagger, Postman, Knooly, Selenium, Cypress
 - **Methodologies:** Scrum
 - **Other Tools:** Git, Dynatrace, Confluence
 
 ### What I'm Currently Learning
 
 - Robot Framework
-- Cypress
-- Selenium
 - Appium
 - CI/CD Pipelines
   <img align="right" height="210" src="img/gifs/kirby2.gif">
