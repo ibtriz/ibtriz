@@ -24,7 +24,7 @@ I'm pursuing a degree in Information Technology at UNIVESP, with hands-on experi
 
 ### <img align="left" alt="Gif of the little star from Mario's games, using as a topic ponctuation" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">What I'm Currently Learning
 
-<img align="right" height="250" alt="Gif of the game character Kirby" src="img/gifs/kirby2.gif">
+<img align="right" height="250" alt="Gif of the game character Kirby" src="img/gifs/kirby5.gif">
 
 - Robot Framework
 - Appium
