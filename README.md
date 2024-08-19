@@ -10,25 +10,26 @@
 
 I'm a Junior Software Quality Engineer and QA enthusiast with a passion for test automation and continuous improvement. Currently, I'm a Business Analytics Intern at [Itaú](https://www.linkedin.com/company/itauusa/about/).
 
-### About Me
+### <img align="left" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">About Me
 
-I'm pursuing a degree in Information Technology at UNIVESP, with hands-on experience as an IT Apprentice at Banco Pan, focusing on Software Testing. I thrive on solving complex problems and enhancing software quality.
+I'm pursuing a degree in Information Technology at UNIVESP, with hands-on experience as an IT Apprentice at Banco Pan, focusing on Software Testing. I thrive on enhancing software quality.
 
-### Skills and Technologies
+### <img align="left" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">Skills and Technologies
 
 - **Languages:** JavaScript, Java, SQL
 - **Testing & QA:** Gherkin, AWS Device Farm, Swagger, Postman, Knooly, Selenium, Cypress
 - **Methodologies:** Scrum
 - **Other Tools:** Git, Dynatrace, Confluence
 
-### What I'm Currently Learning
+### <img align="left" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">What I'm Currently Learning
+
+<img align="right" height="250" src="img/gifs/kirby2.gif">
 
 - Robot Framework
 - Appium
 - CI/CD Pipelines
-  <img align="right" height="210" src="img/gifs/kirby2.gif">
 
- ### Let's Connect!
+### <img align="left" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">Let's Connect!
  
 Feel free to reach out to me for collaborations or just to connect!
 - [Email Me](mailto:beatriz.fbcarneiro@gmail.com)
@@ -42,4 +43,3 @@ Feel free to reach out to me for collaborations or just to connect!
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibtriz&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
   </a>
 </div>
-
