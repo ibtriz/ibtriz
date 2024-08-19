@@ -8,7 +8,7 @@
 
 #
 
-I'm a Junior Software Quality Engineer and QA enthusiast with a passion for test automation and continuous improvement. Currently, I'm a Business Analytics Intern at [Itaú](https://www.linkedin.com/company/itauusa/about/).
+I'm a Junior Software Quality Engineer with a passion for automation and continuous improvement. Currently, I'm a Business Analytics Intern @ [Itaú](https://www.linkedin.com/company/itauusa/about/).
 
 ### <img align="left" alt="Gif of the little star from Mario's games, using as a topic ponctuation" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">About Me
 
@@ -16,9 +16,10 @@ I'm pursuing a degree in Information Technology at UNIVESP, with hands-on experi
 
 ### <img align="left" alt="Gif of the little star from Mario's games, using as a topic ponctuation" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">Skills and Technologies
 
-- **Languages:** JavaScript, Java, SQL
-- **Testing & QA:** Gherkin, AWS Device Farm, Swagger, Postman, Knooly, Selenium, Cypress
 - **Methodologies:** Scrum
+- **Languages:** JavaScript, Java, SQL
+- **Test Automation:** Selenium, Cypress
+- **Testing & QA:** Gherkin, AWS Device Farm, Swagger, Postman, Knooly
 - **Other Tools:** Git, Dynatrace, Confluence
 
 ### <img align="left" alt="Gif of the little star from Mario's games, using as a topic ponctuation" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">What I'm Currently Learning
