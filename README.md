@@ -12,7 +12,7 @@ I'm a Junior Software Quality Engineer with a passion for automation and continu
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">About Me
 
-I'm pursuing a degree in Information Technology at UNIVESP, with hands-on experience as an IT Apprentice at Banco Pan, focusing on Software Testing. I'm passionate about enhancing software quality.
+I'm pursuing a degree in Information Technology at UNIVESP, with hands-on experience as an IT Apprentice at Banco Pan, focusing on Software Testing.
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">Skills and Technologies
 
