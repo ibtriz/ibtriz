@@ -24,7 +24,7 @@ I'm pursuing a degree in Information Technology at UNIVESP, with hands-on experi
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">What I'm Currently Learning
 
-<img align="right" height="300" alt="Gif of the game character Kirby" src="img/gifs/kirby2.gif">
+<img align="right" height="290" alt="Gif of the game character Kirby" src="img/gifs/kirby2.gif">
 
 - Robot Framework
 - Appium
