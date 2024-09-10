@@ -9,11 +9,11 @@
 
 #
 
-I'm a Junior Quality Assurance Engineer with a passion for automation and continuous improvement. Currently, I'm a Junior QA Engineer at [Itaú Unibanco](https://www.linkedin.com/company/itauusa/about/).
+I'm a Quality Assurance Engineer with a passion for automation and continuous improvement. Currently, I work at [Itaú Unibanco](https://www.linkedin.com/company/itauusa/about/) where I'm focused on enhancing testing processes and methodologies.
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">About Me
 
-I'm currently pursuing a degree in Information Technology at UNIVESP. I began my career as an IT Apprentice at Banco Pan, where I gained hands-on experience in software testing and automation. Now, as a Junior QA Engineer at Itaú Unibanco, I am further developing my skills in performance and security testing while contributing to large-scale projects.
+I'm pursuing a degree in Information Technology at UNIVESP. I started my career as an IT Apprentice at Banco Pan, where I gained hands-on experience in software testing and automation. At Itaú Unibanco, I'm expanding my expertise in performance and security testing, contributing to large-scale projects.
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">Skills and Technologies
 
