@@ -1,4 +1,5 @@
 ## <p align="left"><img align="center" alt="Gif-boo" height="45" src="img/gifs/boo.gif">    <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&pause=1000&color=74A8FD&vCenter=true&width=435&lines=%F0%9D%91%AF%F0%9D%92%86%F0%9D%92%9A%2C+%F0%9D%91%B0'%F0%9D%92%8E+%F0%9D%91%A9%F0%9D%92%86%F0%9D%92%82%F0%9D%92%95%F0%9D%92%93%F0%9D%92%8A%F0%9D%92%9B" alt="Hey, I'm Beatriz" /></a></p>
+
 <div style="display: inline_block" align="center">
 <a href="https://app.daily.dev/ibtriz" target="_blank"><img align="center" src="img/icons/dailydevicon.png" alt="ibtriz" height="30" width="30" /></a>
 <a href="https://medium.com/@ibtriz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@ibtriz" height="30" width="40" /></a>
@@ -8,27 +9,28 @@
 
 #
 
-I'm a Junior Software Quality Engineer with a passion for automation and continuous improvement. Currently, I'm a Business Analytics Intern at [Itaú](https://www.linkedin.com/company/itauusa/about/).
+I'm a Junior Quality Assurance Engineer with a passion for automation and continuous improvement. Currently, I'm a Junior QA Engineer at [Itaú Unibanco](https://www.linkedin.com/company/itauusa/about/).
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">About Me
 
-I'm pursuing a degree in Information Technology at UNIVESP, with hands-on experience as an IT Apprentice at Banco Pan, focusing on Software Testing.
+I'm currently pursuing a degree in Information Technology at UNIVESP. I began my career as an IT Apprentice at Banco Pan, where I gained hands-on experience in software testing and automation. Now, as a Junior QA Engineer at Itaú Unibanco, I am further developing my skills in performance and security testing while contributing to large-scale projects.
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">Skills and Technologies
 
-- **Methodologies:** Scrum
+- **Methodologies:** Scrum, Agile
 - **Languages:** JavaScript, Java, SQL
-- **Test Automation:** Selenium, Cypress
-- **Testing & QA:** Gherkin, AWS Device Farm, Swagger, Postman, Knooly
-- **Other Tools:** Git, Dynatrace, Confluence
+- **Test Automation:** Selenium, Cypress, Robot Framework
+- **Testing & QA:** Gherkin, AWS Device Farm, Swagger, Postman, Knooly, Appium
+- **CI/CD Tools:** Jenkins, GitLab CI/CD
+- **Other Tools:** Git, Dynatrace, Confluence, Jira
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">What I'm Currently Learning
 
 <img align="right" height="290" alt="Gif of the game character Kirby" src="img/gifs/kirby2.gif">
 
-- Robot Framework
-- Appium
-- CI/CD Pipelines
+- Mobile Test Automation with Appium and Robot Framework
+- CI/CD Pipelines and DevOps
+- Cloud Testing on AWS and Azure
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">Let's Connect!
  
