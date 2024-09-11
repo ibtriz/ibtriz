@@ -9,7 +9,7 @@
 
 #
 
-I'm a Quality Assurance Engineer with a passion for automation and continuous improvement. Currently, I work at [Itaú Unibanco](https://www.linkedin.com/company/itauusa/about/) where I'm focused on enhancing testing processes and methodologies.
+I'm a Quality Assurance Engineer with a passion for automation and continuous improvement. Currently, I work at [Itaú Unibanco](https://www.linkedin.com/company/itau/mycompany/) where I'm focused on enhancing testing processes and methodologies.
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">About Me
 
