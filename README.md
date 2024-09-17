@@ -9,28 +9,30 @@
 
 #
 
-I'm a Quality Assurance Engineer with a passion for automation and continuous improvement. Currently, I work at [Itaú Unibanco](https://www.linkedin.com/company/itau/mycompany/) where I'm focused on enhancing testing processes and methodologies.
+I'm a **Quality Assurance Engineer** who is passionate about automation and continuous improvement. I love exploring new ways to enhance software quality and find great satisfaction in creating testing strategies. My journey in QA is driven by a genuine curiosity for technology and a commitment to delivering the best user experiences.
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">About Me
 
-I'm pursuing a degree in Information Technology at UNIVESP. I started my career as an IT Apprentice at Banco Pan, where I gained hands-on experience in software testing and automation. At Itaú Unibanco, I'm expanding my expertise in performance and security testing, contributing to large-scale projects.
+I'm currently pursuing a degree in **Information Technology** at **UNIVESP**. My career began as an IT Apprentice at Banco Pan, where I gained hands-on experience in manual software testing. 
+
+Now, as a **Junior QA Engineer** at **[Itaú Unibanco](https://www.linkedin.com/company/itau/mycompany/)**, I focus on enhancing testing processes and methodologies. My work includes performance testing, automation (for mobile iOS and Android, as well as front-end and back-end), and security testing. I actively contribute to large-scale projects, continuously improving quality practices and ensuring efficient, reliable software delivery.
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">Skills and Technologies
 
-- **Methodologies:** Scrum, Agile
-- **Languages:** JavaScript, Java, SQL
-- **Test Automation:** Selenium, Cypress, Robot Framework
-- **Testing & QA:** Gherkin, AWS Device Farm, Swagger, Postman, Knooly, Appium
+- **Methodologies:** Agile, Scrum, Behavior-Driven Development (BDD), Test-Driven Development (TDD)
+- **Programming Languages:** JavaScript, Java, SQL
+- **Test Automation Tools:** Selenium, Cypress, Robot Framework, Appium
+- **Testing & QA Tools:** Gherkin, Postman, Swagger, Knooly, AWS Device Farm, Test Coverage, API Testing
 - **CI/CD Tools:** Jenkins, GitLab CI/CD
-- **Other Tools:** Git, Dynatrace, Confluence, Jira
+- **Other Tools:** Git, Jira, Confluence, Dynatrace
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">What I'm Currently Learning
 
 <img align="right" height="290" alt="Gif of the game character Kirby" src="img/gifs/kirby2.gif">
 
-- Mobile Test Automation with Appium and Robot Framework
-- CI/CD Pipelines and DevOps
-- Cloud Testing on AWS and Azure
+- **Mobile Test Automation** with Appium and Robot Framework
+- **CI/CD Pipelines** and **DevOps**
+- **Cloud Testing** on AWS and Azure
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">Let's Connect!
  
