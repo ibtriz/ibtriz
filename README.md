@@ -13,7 +13,7 @@ I'm a **Quality Assurance Engineer** who is passionate about automation and cont
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">About Me
 
-I'm currently pursuing a degree in **Information Technology** at **UNIVESP**. My career began as an IT Apprentice at Banco Pan, where I gained hands-on experience in manual software testing. 
+My career began as an IT Apprentice at Banco Pan, where I gained hands-on experience in manual software testing. 
 
 Now, as a **Junior QA Engineer** at **[Itaú Unibanco](https://www.linkedin.com/company/itau/mycompany/)**, I focus on enhancing testing processes and methodologies. My work includes performance testing, automation (for mobile iOS and Android, as well as front-end and back-end), and security testing. I actively contribute to large-scale projects, continuously improving quality practices and ensuring efficient, reliable software delivery.
 
