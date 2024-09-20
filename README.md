@@ -36,7 +36,7 @@ Now, as a **Junior QA Engineer** at **[Itaú Unibanco](https://www.linkedin.com/
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">Let's Connect!
  
-Feel free to reach out to me for collaborations or just to connect!
+I’d love to hear from you! Whether it’s for a collaboration or just to chat tech, feel free to reach out:
 - [Email Me](mailto:beatriz.fbcarneiro@gmail.com)
 - [LinkedIn Profile](https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/)
 - [GitHub Profile](https://github.com/ibtriz)
