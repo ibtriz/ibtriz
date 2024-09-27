@@ -19,13 +19,12 @@ Now, as a **Junior QA Engineer** at **[Itaú Unibanco](https://www.linkedin.com/
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">Skills and Technologies
 
-- **Methodologies:** Agile, Scrum, Behavior-Driven Development (BDD), Test-Driven Development (TDD)
-- **Programming Languages:** JavaScript, Java, SQL
-- **Test Automation:** Selenium, Cypress, Robot Framework, Appium
-- **Testing & QA:** Gherkin, Postman, Swagger, Knooly, Test Coverage, API Testing
-- **Performance & Monitoring**: Dynatrace
-- **Device Testing Platforms**: AWS Device Farm
-- **CI/CD:** Jenkins, GitLab CI/CD
+- **Methodologies & Practices:** Agile, Scrum, Behavior-Driven Development (BDD), Test-Driven Development (TDD)
+- **Programming Languages & Frameworks:** JavaScript, Java, SQL
+- **Test Automation Frameworks & Tools:** Selenium, Cypress, Robot Framework, Appium
+- **API & Performance Testing:** Postman, Swagger, Gherkin, Knooly, Dynatrace (Performance Monitoring)
+- **Device Testing Platforms:** AWS Device Farm
+- **CI/CD & DevOps Tools:** Jenkins, GitLab CI/CD
 - **Other Tools:** Git, Jira, Confluence
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">What I'm Currently Learning
