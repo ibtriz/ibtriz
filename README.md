@@ -29,7 +29,7 @@ Now, as a **Junior QA Engineer** at **[Itaú Unibanco](https://www.linkedin.com/
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">What I'm Currently Learning
 
-<img align="right" height="290" alt="Gif of the game character Kirby" src="img/gifs/mimikyuu.gif">
+<img align="right" height="290" alt="Gif of the game character Kirby" src="https://github.com/ibtriz/ibtriz/blob/fbe4c9a915effc10ccd745d63b02a9db30847eaf/img/gifs/mimikyuu.gif">
 
 - **Mobile Test Automation** with Appium and Robot Framework
 - **CI/CD Pipelines** and **DevOps**
