@@ -19,20 +19,20 @@ Today, I'm a **Junior QA Engineer** at **[Itaú Unibanco](https://www.linkedin.c
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">Skills and Technologies
 
-**Test Automation**  
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)  ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)  ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-green?style=flat)  ![Appium](https://img.shields.io/badge/-Appium-00B4AB?style=flat&logo=appium&logoColor=white)
+### **Test Automation**  
+![Selenium](https://img.shields.io/badge/-Selenium-2D2D2D?style=flat&logo=selenium&logoColor=white&color=4D4D4D)  ![Cypress](https://img.shields.io/badge/-Cypress-2D2D2D?style=flat&logo=cypress&logoColor=white&color=4D4D4D)  ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-2D2D2D?style=flat&logo=robotframework&logoColor=white&color=4D4D4D)  ![Appium](https://img.shields.io/badge/-Appium-2D2D2D?style=flat&logo=appium&logoColor=white&color=4D4D4D)  
 
-**API Testing**  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)  ![Cucumber](https://img.shields.io/badge/-Cucumber-25A12D?style=flat&logo=cucumber&logoColor=white)
+### **API Testing**  
+![Postman](https://img.shields.io/badge/-Postman-2D2D2D?style=flat&logo=postman&logoColor=white&color=4D4D4D)  ![Swagger](https://img.shields.io/badge/-Swagger-2D2D2D?style=flat&logo=swagger&logoColor=white&color=4D4D4D)  ![Cucumber](https://img.shields.io/badge/-Cucumber-2D2D2D?style=flat&logo=cucumber&logoColor=white&color=4D4D4D)  
 
-**Methodologies**  
-![BDD](https://img.shields.io/badge/-BDD-blueviolet?style=flat)  ![TDD](https://img.shields.io/badge/-TDD-blueviolet?style=flat)  ![Gherkin](https://img.shields.io/badge/-Gherkin-darkgreen?style=flat)  ![Scrum](https://img.shields.io/badge/-Scrum-blueviolet?style=flat)
+### **Methodologies**  
+![BDD](https://img.shields.io/badge/-BDD-4D4D4D?style=flat&color=4D4D4D&labelColor=2D2D2D)  ![TDD](https://img.shields.io/badge/-TDD-4D4D4D?style=flat&color=4D4D4D&labelColor=2D2D2D)  ![Gherkin](https://img.shields.io/badge/-Gherkin-4D4D4D?style=flat&color=4D4D4D&labelColor=2D2D2D)  ![Scrum](https://img.shields.io/badge/-Scrum-4D4D4D?style=flat&color=4D4D4D&labelColor=2D2D2D)  
 
-**Performance & Observability**  
-![Dynatrace](https://img.shields.io/badge/-Dynatrace-1496FF?style=flat&logo=dynatrace&logoColor=white)
+### **Performance & Observability**  
+![Dynatrace](https://img.shields.io/badge/-Dynatrace-2D2D2D?style=flat&logo=dynatrace&logoColor=white&color=4D4D4D)  
 
-**CI/CD & Cloud Testing**  
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  ![GitLab CI/CD](https://img.shields.io/badge/-GitLab_CI%2FCD-FCA121?style=flat&logo=gitlab&logoColor=white)  ![AWS Device Farm](https://img.shields.io/badge/-AWS_Device_Farm-orange?style=flat&logo=amazonaws&logoColor=white)
+### **CI/CD & Cloud Testing**  
+![Jenkins](https://img.shields.io/badge/-Jenkins-2D2D2D?style=flat&logo=jenkins&logoColor=white&color=4D4D4D)  ![GitLab CI/CD](https://img.shields.io/badge/-GitLab_CI%2FCD-2D2D2D?style=flat&logo=gitlab&logoColor=white&color=4D4D4D)  ![AWS Device Farm](https://img.shields.io/badge/-AWS_Device_Farm-2D2D2D?style=flat&logo=amazonaws&logoColor=white&color=4D4D4D)  
 
 <img align="right" height="290" alt="Gif of the game character mimikyu" src="https://github.com/ibtriz/ibtriz/blob/fbe4c9a915effc10ccd745d63b02a9db30847eaf/img/gifs/mimikyuu.gif">
 
