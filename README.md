@@ -1,7 +1,6 @@
 ## <p align="left"><img align="center" alt="Gif-boo" height="45" src="img/gifs/boo.gif">    <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&pause=1000&color=74A8FD&vCenter=true&width=435&lines=%F0%9D%91%AF%F0%9D%92%86%F0%9D%92%9A%2C+%F0%9D%91%B0'%F0%9D%92%8E+%F0%9D%91%A9%F0%9D%92%86%F0%9D%92%82%F0%9D%92%95%F0%9D%92%93%F0%9D%92%8A%F0%9D%92%9B" alt="Hey, I'm Beatriz" /></a></p>
 
 <div style="display: inline_block" align="center">
-  <a href="https://medium.com/@ibtriz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="40" /></a>
 </div>
 
