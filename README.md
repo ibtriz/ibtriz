@@ -56,3 +56,129 @@ You can reach me here:
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibtriz&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true" />
   </a>
 </div>
+
+<!--
+
+
+## <p align="left">
+
+  <img align="center" alt="Gif-boo" height="45" src="img/gifs/boo.gif">
+  <a href="https://git.io/typing-svg">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&pause=1000&color=74A8FD&vCenter=true&width=435&lines=%F0%9D%91%AF%F0%9D%92%86%F0%9D%92%9A%2C+%F0%9D%91%B0'%F0%9D%92%8E+%F0%9D%91%A9%F0%9D%92%86%F0%9D%92%82%F0%9D%92%95%F0%9D%92%93%F0%9D%92%8A%F0%9D%92%9B" alt="Hey, I'm Beatriz" />
+  </a>
+</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="40" />
+  </a>
+</div>
+
+
+---
+
+## 🕷️ SYSTEM INIT: QA NODE\_01 \[ibtriz.exe]
+
+```
+Boot Sequence: ✅  
+Security Layer: [Active]  
+Test Grid: [Mobile | Web | API | Performance]  
+Role: QA Intelligence Unit - Automation Specialist  
+Affiliation: Itaú Unibanco  
+Status: Scanning bugs...  
+```
+
+> *“Quality isn't a stage. It's an infiltration.”*
+
+---
+
+### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">CORE FILE // PROFILE.DAT
+
+```
+Alias: Beatriz // codename: ibtriz  
+Current Role: Junior QA Engineer  
+Ops Base: Itaú Unibanco  
+Mission Scope:  
+↳ Test Automation (Mobile, Web, API)  
+↳ Performance Analysis (Dynatrace)  
+↳ CI/CD Deploy Surveillance  
+↳ Security + Observability Recon
+```
+
+---
+
+### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">ACTIVE TOOLS
+
+```
+[ Automation ]: Selenium | Cypress | Robot | Appium  
+[ API Recon ]: Postman | Swagger | Cucumber  
+[ Methodology ]: BDD | TDD | Gherkin | Scrum  
+[ Monitoring ]: Dynatrace  
+[ DevOps Ops ]: Jenkins | GitLab CI | AWS
+```
+
+---
+
+### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">CURRENT EXPANSION MODULES
+
+```
+▶ Appium + Robot Framework (Hybrid Mobile Automation)  
+▶ GitLab Pipelines (CI/CD Scripting)  
+▶ Cloud Testing w/ AWS Device Farm  
+▶ Azure DevOps Integration
+```
+
+---
+
+<img align="right" height="290" alt="Gif of the game character mimikyu" src="https://github.com/ibtriz/ibtriz/blob/fbe4c9a915effc10ccd745d63b02a9db30847eaf/img/gifs/mimikyuu.gif">
+
+### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">LOGS: PROJECTS & MISSIONS
+
+```
+>> [test-login-banking-app]  
+↳ Appium + RF automation suite  
+↳ Mocked API responses + environment switcher  
+↳ GitLab pipeline + Slack reporter
+
+>> [performance-smoke]  
+↳ Dynatrace + JMeter benchmarking  
+↳ Threshold validation via scripting
+```
+
+🔗 [Explore my repositories](https://github.com/ibtriz?tab=repositories)
+
+---
+
+### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png">CONTACT POINTS
+
+```
+[LinkedIn]: /beatriz-francelino-borges-carneiro  
+[Terminal Alias]: ibtriz  
+[Status]: Available for collab or coffee
+```
+
+---
+
+### 🧠 SYSTEM METRICS
+
+```
+👾 Commits Tracked: [Classified]  
+📦 Repos Deployed: [Updating...]  
+📱 Bugs Neutralized: [Ongoing...]
+```
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtriz&layout=compact&langs_count=7&theme=rose_pine" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibtriz&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true" />
+</div>
+
+---
+
+### 💥 FINAL NOTE
+
+```
+Built different.  
+Tested everything.  
+Still testing reality.  
+```
+-->
