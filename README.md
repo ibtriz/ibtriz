@@ -10,17 +10,17 @@
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png"> About Me
 
-Quality Assurance Engineer focused on automation, reliability, and risk prevention in fintech environments.  
-Currently at **[Itaú Unibanco](https://www.linkedin.com/company/itau/mycompany/)** — working on mobile, API and front-end testing, performance monitoring and secure delivery for large-scale financial systems.
+Quality Assurance Engineer focused on mobile automation, API validation and reliability engineering for financial products.
+Currently at **[Itaú Unibanco](https://www.linkedin.com/company/itau/mycompany/)**, working on authentication journeys, performance monitoring and secure delivery for large-scale mobile applications.
 
-I like to build testing strategies that actually matter: stable, scalable and predictable. 
+I build testing strategies that prioritize stability, predictability and risk-based decision-making — combining automation, observability and technical depth.
 
 ```
 
 🇧🇷 Sobre mim
-💠 QA Engineer em uma fintech, focada em qualidade e automação em produtos financeiros digitais.
-💠 Trabalho com testes mobile, API, BDD e CI/CD, sempre equilibrando performance, segurança e experiência do usuário.
-💠 Busco evoluir tecnicamente e construir estratégias de teste inteligentes, eficientes e sustentáveis.
+💠 QA Engineer especializada em automação mobile, testes de API e estratégias de qualidade orientadas a risco.
+💠 Atuação em ambientes financeiros com foco em confiabilidade, performance e segurança.
+💠 Em constante evolução em automação avançada, observabilidade e engenharia de testes.
 
 ```
 
@@ -68,5 +68,5 @@ I like to build testing strategies that actually matter: stable, scalable and pr
 </div>
 
 ---
-<p align="center"><sub><i>// building trust through code, one test at a time.</i></sub></p>
+<p align="center"><sub><i>// testing as architecture.</i></sub></p>
 
