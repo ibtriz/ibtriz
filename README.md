@@ -1,4 +1,4 @@
-## <p align="left"><img align="center" alt="Gif-boo" height="45" src="img/gifs/boo.gif"> <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&pause=1000&color=74A8FD&vCenter=true&width=435&lines=Be%2C+QA+engineering+quality+in+motion" alt="Hey, I'm Be" /></a></p>
+## <p align="left"><img align="center" alt="Gif-boo" height="45" src="img/gifs/boo.gif"> <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&pause=1000&color=74A8FD&vCenter=true&width=435&lines=Be%2C+QA+engineer" alt="Hey, I'm Be" /></a></p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/" target="_blank">
