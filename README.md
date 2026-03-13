@@ -88,6 +88,7 @@ Roadmap SDET — expandindo da execução para engenharia:
 ◌  AWS Cloud Practitioner   ← loading
 ◌  ISTQB CTFL v4.0
 ◌  ISTQB CTAL-TAE
+◌  AWS AI Practitioner
 ◌  AWS Solutions Architect
 ```
 
