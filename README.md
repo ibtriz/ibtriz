@@ -32,7 +32,7 @@ Working across:
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png"> Tech Stack
 
-**Automation Core**
+**automation core**
 
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-0A0A0F?style=flat-square&logo=robotframework&logoColor=74A8FD)
 ![Appium](https://img.shields.io/badge/-Appium-0A0A0F?style=flat-square&logo=appium&logoColor=74A8FD)
