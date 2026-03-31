@@ -3,7 +3,7 @@
 <p align="left">
   <img align="center" alt="Gif-boo" height="45" src="img/gifs/boo.gif">
   <a href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1000&color=74A8FD&vCenter=true&width=620&lines=Hi!+I'm+Beatriz;QA+Automation+Engineer+%40+Itau;Software+Development+Engineer+in+Test;shift+left+or+shift+left+harder;quality+is+an+architecture+decision" alt="Typing SVG" />
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1000&color=74A8FD&vCenter=true&width=620&lines=Hi!+I'm+Beatriz;QA+Automation+Engineer+%40+Itau;Software+Development+Engineer+in+Test;quality+is+an+architecture+decision" alt="Typing SVG" />
   </a>
 </p>
 
