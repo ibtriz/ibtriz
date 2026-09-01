@@ -113,21 +113,11 @@ Foco em automação, arquitetura de testes e confiabilidade — aprofundando cad
 
 ---
 
-### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png"> projects
-
-**🔒 Digital Bank Quality Platform** *(in progress)*
-Plataforma financeira simulada com qualidade end-to-end — da camada de contrato ao pipeline de entrega.
-`Python` · `Robot Framework` · `Appium` · `Pact` · `AWS Serverless` · `GitHub Actions`
-
-**⬡ Nexus — Order & Payment System** *(in progress)*
-Sistema de pedidos e pagamentos construído incrementalmente, dos fundamentos de arquitetura hexagonal à mensageria orientada a eventos e observabilidade em produção.
-`Java 21` · `Spring Boot` · `Kafka` · `Redis` · `Docker` · `AWS`
-
----
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png"> connect
 
 <a href="https://www.linkedin.com/in/beatriz-francelino-borges-carneiro/">LinkedIn</a> ·
+<a href="https://builder.aws.com/community/@ibtrizz?tab=badges">AWS Builder Center</a> ·
 <a href="https://github.com/ibtriz">GitHub</a> ·
 <a href="https://www.hackerrank.com/profile/ibtriz">HackerRank</a> ·
 <a href="https://leetcode.com/u/ibtriz/">LeetCode</a>
