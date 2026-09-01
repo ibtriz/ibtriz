@@ -101,6 +101,8 @@ Foco em automação, arquitetura de testes e confiabilidade — aprofundando cad
 
 ---
 
+<img align="right" height="220" src="https://github.com/ibtriz/ibtriz/blob/fbe4c9a915effc10ccd745d63b02a9db30847eaf/img/gifs/kirby2.gif" alt="kirby gif" />
+
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png"> certifications
 
 ```
@@ -112,7 +114,6 @@ Foco em automação, arquitetura de testes e confiabilidade — aprofundando cad
 ```
 
 ---
-
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png"> connect
 
