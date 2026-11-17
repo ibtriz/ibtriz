@@ -19,7 +19,7 @@
 // ibtriz.exe — loaded
 // role        : QA Automation Engineer
 // squad       : mobile · authentication
-// interests   : distributed systems · architecture · reliability at scale
+// interests   : backend systems · cloud · reliability at scale
 ```
 ---
 
@@ -33,18 +33,18 @@ I don't see quality as a phase — I treat it as a **design constraint**.
 Driven by:
 
 - **shift-left testing**
-- understanding architecture before testing behavior — and increasingly, designing it too
+- understanding architecture before testing behavior — and now, building it too
 - building quality as part of the product itself, not bolted on afterward
 - using the end user as the real acceptance criteria
 
-Currently deepening my understanding of **backend systems** — how services are structured, how they scale, and how they stay reliable under real-world conditions. Test automation taught me to think in edge cases; now I want to design the systems those edge cases live in.
+Test automation taught me to think in edge cases; now I build the **backend services** those edge cases live in — Java, Spring Boot, PostgreSQL, deployed on AWS.
 
 <br>
 
 ```
 **PT-BR**
 QA no Itaú, atuando com mobile e jornadas de autenticação.
-Foco em automação, arquitetura de testes e confiabilidade — aprofundando cada vez mais em como sistemas backend são projetados, escalam e se mantêm confiáveis em produção.
+Foco em automação, arquitetura de testes e confiabilidade — e agora também construindo serviços backend em Java, na AWS.
 ```
 ---
 
@@ -62,26 +62,31 @@ Foco em automação, arquitetura de testes e confiabilidade — aprofundando cad
 
 ![Java](https://img.shields.io/badge/-Java-0A0A0F?style=flat-square&logo=openjdk&logoColor=74A8FD)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-0A0A0F?style=flat-square&logo=springboot&logoColor=74A8FD)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0A0A0F?style=flat-square&logo=postgresql&logoColor=74A8FD)
+![JUnit 5](https://img.shields.io/badge/-JUnit_5-0A0A0F?style=flat-square&logo=junit5&logoColor=74A8FD)
+![Maven](https://img.shields.io/badge/-Maven-0A0A0F?style=flat-square&logo=apachemaven&logoColor=74A8FD)
 ![Postman](https://img.shields.io/badge/-Postman-0A0A0F?style=flat-square&logo=postman&logoColor=74A8FD)
 ![Pact](https://img.shields.io/badge/-Pact_Contract_Testing-0A0A0F?style=flat-square&logoColor=74A8FD)
-![Swagger](https://img.shields.io/badge/-Swagger-0A0A0F?style=flat-square&logo=swagger&logoColor=74A8FD)
+![Swagger](https://img.shields.io/badge/-OpenAPI-0A0A0F?style=flat-square&logo=swagger&logoColor=74A8FD)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-0A0A0F?style=flat-square&logo=cucumber&logoColor=74A8FD)
 
 **Cloud, CI/CD & Observability**
 
 ![AWS](https://img.shields.io/badge/-AWS-0A0A0F?style=flat-square&logo=amazonaws&logoColor=74A8FD)
 ![Docker](https://img.shields.io/badge/-Docker-0A0A0F?style=flat-square&logo=docker&logoColor=74A8FD)
+![Terraform](https://img.shields.io/badge/-Terraform-0A0A0F?style=flat-square&logo=terraform&logoColor=74A8FD)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-0A0A0F?style=flat-square&logo=githubactions&logoColor=74A8FD)
 ![GitLab CI/CD](https://img.shields.io/badge/-GitLab_CI%2FCD-0A0A0F?style=flat-square&logo=gitlab&logoColor=74A8FD)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-0A0A0F?style=flat-square&logo=jenkins&logoColor=74A8FD)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-0A0A0F?style=flat-square&logo=opentelemetry&logoColor=74A8FD)
 ![Datadog](https://img.shields.io/badge/-Datadog-0A0A0F?style=flat-square&logo=datadog&logoColor=74A8FD)
 ![Dynatrace](https://img.shields.io/badge/-Dynatrace-0A0A0F?style=flat-square&logo=dynatrace&logoColor=74A8FD)
 ![Splunk](https://img.shields.io/badge/-Splunk-0A0A0F?style=flat-square&logo=splunk&logoColor=74A8FD)
 
 **Languages**
 
-![Python](https://img.shields.io/badge/-Python-0A0A0F?style=flat-square&logo=python&logoColor=74A8FD)
 ![Java](https://img.shields.io/badge/-Java-0A0A0F?style=flat-square&logo=openjdk&logoColor=74A8FD)
+![Python](https://img.shields.io/badge/-Python-0A0A0F?style=flat-square&logo=python&logoColor=74A8FD)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0A0A0F?style=flat-square&logo=javascript&logoColor=74A8FD)
 
 ---
@@ -91,12 +96,12 @@ Foco em automação, arquitetura de testes e confiabilidade — aprofundando cad
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png"> building
 
 ```
-[▓▓▓▓▓▓░░]  Mobile Automation     · Appium 2.0 · BrowserStack · Sauce Labs
-[▓▓▓▓▓░░░]  Contract Testing      · Pact · consumer-driven · microserviços
-[▓▓▓▓░░░░]  Backend Architecture  · Java 21 · Spring Boot · hexagonal
-[▓▓▓░░░░░]  Event-Driven Systems  · Kafka · Avro · outbox pattern
-[▓▓▓░░░░░]  Cloud & Infra         · AWS · Terraform · Docker
-[▓▓░░░░░░]  Distributed Systems   · CAP theorem · scalability · resilience
+[▓▓▓▓▓▓▓░]  Mobile Automation     · Appium 2.0 · Robot Framework · BrowserStack · Sauce Labs
+[▓▓▓▓▓░░░]  Backend Engineering   · Java 21 · Spring Boot · PostgreSQL · JUnit 5 · Testcontainers
+[▓▓▓▓░░░░]  Cloud & Infra         · AWS · ECS/Fargate · RDS · Docker · Terraform
+[▓▓▓░░░░░]  Async Systems         · SQS · idempotency · DLQ · eventual consistency
+[▓▓▓░░░░░]  Observability         · CloudWatch · OpenTelemetry · tracing · SLI/SLO
+[▓▓░░░░░░]  Contract Testing      · Pact · consumer-driven · microserviços
 ```
 
 ---
@@ -106,11 +111,9 @@ Foco em automação, arquitetura de testes e confiabilidade — aprofundando cad
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png"> certifications
 
 ```
-✓  GitHub Foundations            Achieved! 
-◌  AWS Cloud Practitioner        ← loading [▓▓░░░░░░]
-◌  AWS Solutions Architect       · on deck
-◌  AWS Developer Associate       · 2027
-◌  CKA — Kubernetes              · 2027
+✓  GitHub Foundations            Achieved!
+✓  AWS Cloud Practitioner        ← loading [▓░░░░░░░]
+◌  AWS Associate                 ← loading [▓░░░░░░░]
 ```
 
 ---
