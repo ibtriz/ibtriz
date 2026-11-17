@@ -3,7 +3,7 @@
 <p align="left">
   <img align="center" alt="Gif-boo" height="45" src="img/gifs/boo.gif">
   <a href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1000&color=74A8FD&vCenter=true&width=620&lines=Hi!+I'm+Beatriz;QA+Automation+Engineer+%40+Itau;thinking+in+systems%2C+not+just+in+tests;quality+is+an+architecture+decision" alt="Typing SVG" />
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1000&color=74A8FD&vCenter=true&width=620&lines=Hi!+I'm+Beatriz;Software+Engineer+%40+Itau;thinking+in+systems%2C+not+just+in+tests;quality+is+an+architecture+decision" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,58 +17,47 @@
 
 ```
 // ibtriz.exe — loaded
-// role        : QA Automation Engineer
-// squad       : mobile · authentication
+// role        : Software Engineer · Backend
+// squad       : authentication
 // interests   : backend systems · cloud · reliability at scale
 ```
 ---
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png"> who am i
 
-**QA Automation Engineer** at Itaú Unibanco — mobile squad, authentication & digital security.
+**Software Engineer** at Itaú Unibanco — backend, authentication & digital security.
 
-I work at the intersection of **test automation, system design, and reliability** in high-criticality financial systems.
-I don't see quality as a phase — I treat it as a **design constraint**.
+I build **Java services** for high-criticality financial systems, where reliability is not optional.
+I came in through test automation, so I don't see quality as a phase — I treat it as a **design constraint**.
 
 Driven by:
 
 - **shift-left testing**
-- understanding architecture before testing behavior — and now, building it too
+- understanding architecture before writing code — and designing it too
 - building quality as part of the product itself, not bolted on afterward
 - using the end user as the real acceptance criteria
 
-Test automation taught me to think in edge cases; now I build the **backend services** those edge cases live in — Java, Spring Boot, PostgreSQL, deployed on AWS.
+Years of finding edge cases taught me where systems break; now I build the ones that don't.
 
 <br>
 
 ```
 **PT-BR**
-QA no Itaú, atuando com mobile e jornadas de autenticação.
-Foco em automação, arquitetura de testes e confiabilidade — e agora também construindo serviços backend em Java, na AWS.
+Engenheira de software no Itaú, atuando com backend Java e jornadas de autenticação.
+Vim da automação de testes — e isso muda a forma como projeto, testo e opero serviços em produção.
 ```
 ---
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png"> current stack
 
-**Automation & Mobile**
-
-![Robot Framework](https://img.shields.io/badge/-Robot_Framework-0A0A0F?style=flat-square&logo=robotframework&logoColor=74A8FD)
-![Appium](https://img.shields.io/badge/-Appium-0A0A0F?style=flat-square&logo=appium&logoColor=74A8FD)
-![pytest](https://img.shields.io/badge/-pytest-0A0A0F?style=flat-square&logo=pytest&logoColor=74A8FD)
-![Selenium](https://img.shields.io/badge/-Selenium-0A0A0F?style=flat-square&logo=selenium&logoColor=74A8FD)
-![Cypress](https://img.shields.io/badge/-Cypress-0A0A0F?style=flat-square&logo=cypress&logoColor=74A8FD)
-
-**API, Contracts & Backend**
+**Backend & APIs**
 
 ![Java](https://img.shields.io/badge/-Java-0A0A0F?style=flat-square&logo=openjdk&logoColor=74A8FD)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-0A0A0F?style=flat-square&logo=springboot&logoColor=74A8FD)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0A0A0F?style=flat-square&logo=postgresql&logoColor=74A8FD)
-![JUnit 5](https://img.shields.io/badge/-JUnit_5-0A0A0F?style=flat-square&logo=junit5&logoColor=74A8FD)
 ![Maven](https://img.shields.io/badge/-Maven-0A0A0F?style=flat-square&logo=apachemaven&logoColor=74A8FD)
+![OpenAPI](https://img.shields.io/badge/-OpenAPI-0A0A0F?style=flat-square&logo=swagger&logoColor=74A8FD)
 ![Postman](https://img.shields.io/badge/-Postman-0A0A0F?style=flat-square&logo=postman&logoColor=74A8FD)
-![Pact](https://img.shields.io/badge/-Pact_Contract_Testing-0A0A0F?style=flat-square&logoColor=74A8FD)
-![Swagger](https://img.shields.io/badge/-OpenAPI-0A0A0F?style=flat-square&logo=swagger&logoColor=74A8FD)
-![Cucumber](https://img.shields.io/badge/-Cucumber-0A0A0F?style=flat-square&logo=cucumber&logoColor=74A8FD)
 
 **Cloud, CI/CD & Observability**
 
@@ -83,6 +72,17 @@ Foco em automação, arquitetura de testes e confiabilidade — e agora também 
 ![Dynatrace](https://img.shields.io/badge/-Dynatrace-0A0A0F?style=flat-square&logo=dynatrace&logoColor=74A8FD)
 ![Splunk](https://img.shields.io/badge/-Splunk-0A0A0F?style=flat-square&logo=splunk&logoColor=74A8FD)
 
+**Testing & Automation**
+
+![JUnit 5](https://img.shields.io/badge/-JUnit_5-0A0A0F?style=flat-square&logo=junit5&logoColor=74A8FD)
+![Pact](https://img.shields.io/badge/-Pact_Contract_Testing-0A0A0F?style=flat-square&logoColor=74A8FD)
+![Cucumber](https://img.shields.io/badge/-Cucumber-0A0A0F?style=flat-square&logo=cucumber&logoColor=74A8FD)
+![Robot Framework](https://img.shields.io/badge/-Robot_Framework-0A0A0F?style=flat-square&logo=robotframework&logoColor=74A8FD)
+![Appium](https://img.shields.io/badge/-Appium-0A0A0F?style=flat-square&logo=appium&logoColor=74A8FD)
+![pytest](https://img.shields.io/badge/-pytest-0A0A0F?style=flat-square&logo=pytest&logoColor=74A8FD)
+![Selenium](https://img.shields.io/badge/-Selenium-0A0A0F?style=flat-square&logo=selenium&logoColor=74A8FD)
+![Cypress](https://img.shields.io/badge/-Cypress-0A0A0F?style=flat-square&logo=cypress&logoColor=74A8FD)
+
 **Languages**
 
 ![Java](https://img.shields.io/badge/-Java-0A0A0F?style=flat-square&logo=openjdk&logoColor=74A8FD)
@@ -96,12 +96,12 @@ Foco em automação, arquitetura de testes e confiabilidade — e agora também 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png"> building
 
 ```
-[▓▓▓▓▓▓▓░]  Mobile Automation     · Appium 2.0 · Robot Framework · BrowserStack · Sauce Labs
-[▓▓▓▓▓░░░]  Backend Engineering   · Java 21 · Spring Boot · PostgreSQL · JUnit 5 · Testcontainers
-[▓▓▓▓░░░░]  Cloud & Infra         · AWS · ECS/Fargate · RDS · Docker · Terraform
-[▓▓▓░░░░░]  Async Systems         · SQS · idempotency · DLQ · eventual consistency
-[▓▓▓░░░░░]  Observability         · CloudWatch · OpenTelemetry · tracing · SLI/SLO
-[▓▓░░░░░░]  Contract Testing      · Pact · consumer-driven · microserviços
+[▓▓▓▓▓▓░░]  Backend Engineering   · Java 21 · Spring Boot · PostgreSQL · Testcontainers
+[▓▓▓▓▓░░░]  Cloud & Infra         · AWS · ECS/Fargate · RDS · Docker · Terraform
+[▓▓▓▓░░░░]  Async Systems         · SQS · idempotency · DLQ · eventual consistency
+[▓▓▓▓░░░░]  Observability         · CloudWatch · OpenTelemetry · tracing · SLI/SLO
+[▓▓▓░░░░░]  Contract Testing      · Pact · consumer-driven · microserviços
+[▓▓▓░░░░░]  Distributed Systems   · scalability · resilience · trade-offs
 ```
 
 ---
@@ -112,8 +112,8 @@ Foco em automação, arquitetura de testes e confiabilidade — e agora também 
 
 ```
 ✓  GitHub Foundations            Achieved!
-✓  AWS Cloud Practitioner        ← loading [▓░░░░░░░]
-◌  AWS Associate                 ← loading [▓░░░░░░░]
+✓  AWS Cloud Practitioner        ← loading [▓▓░░░░░░]
+◌  AWS Associate                 ← loading [▓▓░░░░░░]
 ```
 
 ---
