@@ -3,7 +3,7 @@
 <p align="left">
   <img align="center" alt="Gif-boo" height="45" src="img/gifs/boo.gif">
   <a href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1000&color=74A8FD&vCenter=true&width=620&lines=Hi!+I'm+Beatriz;Software+Engineer+%40+Itau;thinking+in+systems%2C+not+just+in+tests;quality+is+an+architecture+decision" alt="Typing SVG" />
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1000&color=74A8FD&vCenter=true&width=620&lines=Hi!+I'm+Beatriz;Software+Quality+%26+Engineering;thinking+in+systems%2C+not+just+in+tests;quality+is+an+architecture+decision" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,49 +17,51 @@
 
 ```
 // ibtriz.exe — loaded
-// role        : Software Engineer · Backend
-// squad       : authentication
-// interests   : backend systems · cloud · reliability at scale
+// role        : QA Engineer
+// focus       : software engineering · backend · cloud
+// interests   : architecture · reliability · systems
 ```
+
 ---
 
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png"> who am i
 
-**Software Engineer** at Itaú Unibanco — backend, authentication & digital security.
+**QA Engineer** working in financial technology at Itaú Unibanco.
 
-I build **Java services** for high-criticality financial systems, where reliability is not optional.
-I came in through test automation, so I don't see quality as a phase — I treat it as a **design constraint**.
+My background is in test automation and software quality. I enjoy understanding how systems work beneath the surface — from business rules and APIs to architecture, reliability and the way software behaves in production.
+
+I believe quality is not a phase or a checklist. It is an engineering decision that influences how software is designed, built, tested and operated.
 
 Driven by:
 
-- **shift-left testing**
-- understanding architecture before writing code — and designing it too
-- building quality as part of the product itself, not bolted on afterward
-- using the end user as the real acceptance criteria
-
-Years of finding edge cases taught me where systems break; now I build the ones that don't.
+- understanding systems, not just individual components
+- thoughtful engineering and maintainable solutions
+- automation as a tool for feedback and confidence
+- reliability, user experience and continuous improvement
 
 <br>
 
 ```
 **PT-BR**
-Engenheira de software no Itaú, atuando com backend Java e jornadas de autenticação.
-Vim da automação de testes — e isso muda a forma como projeto, testo e opero serviços em produção.
+QA Engineer na área financeira, com experiência em automação e qualidade de software.
+Tenho interesse em engenharia de software, backend, arquitetura e cloud —
+e gosto de entender sistemas de ponta a ponta.
 ```
+
 ---
 
-### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png"> current stack
+### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png"> toolbox
 
-**Backend & APIs**
+**Backend & Development**
 
 ![Java](https://img.shields.io/badge/-Java-0A0A0F?style=flat-square&logo=openjdk&logoColor=74A8FD)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-0A0A0F?style=flat-square&logo=springboot&logoColor=74A8FD)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0A0A0F?style=flat-square&logo=postgresql&logoColor=74A8FD)
 ![Maven](https://img.shields.io/badge/-Maven-0A0A0F?style=flat-square&logo=apachemaven&logoColor=74A8FD)
-![OpenAPI](https://img.shields.io/badge/-OpenAPI-0A0A0F?style=flat-square&logo=swagger&logoColor=74A8FD)
-![Postman](https://img.shields.io/badge/-Postman-0A0A0F?style=flat-square&logo=postman&logoColor=74A8FD)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0A0A0F?style=flat-square&logo=javascript&logoColor=74A8FD)
+![Python](https://img.shields.io/badge/-Python-0A0A0F?style=flat-square&logo=python&logoColor=74A8FD)
 
-**Cloud, CI/CD & Observability**
+**Cloud & Engineering**
 
 ![AWS](https://img.shields.io/badge/-AWS-0A0A0F?style=flat-square&logo=amazonaws&logoColor=74A8FD)
 ![Docker](https://img.shields.io/badge/-Docker-0A0A0F?style=flat-square&logo=docker&logoColor=74A8FD)
@@ -67,12 +69,8 @@ Vim da automação de testes — e isso muda a forma como projeto, testo e opero
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-0A0A0F?style=flat-square&logo=githubactions&logoColor=74A8FD)
 ![GitLab CI/CD](https://img.shields.io/badge/-GitLab_CI%2FCD-0A0A0F?style=flat-square&logo=gitlab&logoColor=74A8FD)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-0A0A0F?style=flat-square&logo=jenkins&logoColor=74A8FD)
-![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-0A0A0F?style=flat-square&logo=opentelemetry&logoColor=74A8FD)
-![Datadog](https://img.shields.io/badge/-Datadog-0A0A0F?style=flat-square&logo=datadog&logoColor=74A8FD)
-![Dynatrace](https://img.shields.io/badge/-Dynatrace-0A0A0F?style=flat-square&logo=dynatrace&logoColor=74A8FD)
-![Splunk](https://img.shields.io/badge/-Splunk-0A0A0F?style=flat-square&logo=splunk&logoColor=74A8FD)
 
-**Testing & Automation**
+**Quality & Testing**
 
 ![JUnit 5](https://img.shields.io/badge/-JUnit_5-0A0A0F?style=flat-square&logo=junit5&logoColor=74A8FD)
 ![Pact](https://img.shields.io/badge/-Pact_Contract_Testing-0A0A0F?style=flat-square&logoColor=74A8FD)
@@ -83,26 +81,23 @@ Vim da automação de testes — e isso muda a forma como projeto, testo e opero
 ![Selenium](https://img.shields.io/badge/-Selenium-0A0A0F?style=flat-square&logo=selenium&logoColor=74A8FD)
 ![Cypress](https://img.shields.io/badge/-Cypress-0A0A0F?style=flat-square&logo=cypress&logoColor=74A8FD)
 
-**Languages**
+**Observability**
 
-![Java](https://img.shields.io/badge/-Java-0A0A0F?style=flat-square&logo=openjdk&logoColor=74A8FD)
-![Python](https://img.shields.io/badge/-Python-0A0A0F?style=flat-square&logo=python&logoColor=74A8FD)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0A0A0F?style=flat-square&logo=javascript&logoColor=74A8FD)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-0A0A0F?style=flat-square&logo=opentelemetry&logoColor=74A8FD)
+![Datadog](https://img.shields.io/badge/-Datadog-0A0A0F?style=flat-square&logo=datadog&logoColor=74A8FD)
+![Dynatrace](https://img.shields.io/badge/-Dynatrace-0A0A0F?style=flat-square&logo=dynatrace&logoColor=74A8FD)
+![Splunk](https://img.shields.io/badge/-Splunk-0A0A0F?style=flat-square&logo=splunk&logoColor=74A8FD)
 
 ---
 
 <img align="right" height="220" src="https://github.com/ibtriz/ibtriz/blob/fbe4c9a915effc10ccd745d63b02a9db30847eaf/img/gifs/kirby2.gif" alt="kirby gif" />
 
-### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png"> building
+### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png"> selected repositories
 
-```
-[▓▓▓▓▓▓░░]  Backend Engineering   · Java 21 · Spring Boot · PostgreSQL · Testcontainers
-[▓▓▓▓▓░░░]  Cloud & Infra         · AWS · ECS/Fargate · RDS · Docker · Terraform
-[▓▓▓▓░░░░]  Async Systems         · SQS · idempotency · DLQ · eventual consistency
-[▓▓▓▓░░░░]  Observability         · CloudWatch · OpenTelemetry · tracing · SLI/SLO
-[▓▓▓░░░░░]  Contract Testing      · Pact · consumer-driven · microserviços
-[▓▓▓░░░░░]  Distributed Systems   · scalability · resilience · trade-offs
-```
+- [CypressTestSuite](https://github.com/ibtriz/CypressTestSuite) — end-to-end testing with Cypress
+- [SeleniumE2ETests](https://github.com/ibtriz/SeleniumE2ETests) — browser automation with Java
+- [JavaBeginnersProjects](https://github.com/ibtriz/JavaBeginnersProjects) — Java learning projects
+- [PROA_Projects](https://github.com/ibtriz/PROA_Projects) — projects from my technical training
 
 ---
 
@@ -111,9 +106,7 @@ Vim da automação de testes — e isso muda a forma como projeto, testo e opero
 ### <img align="left" alt="•" height="30" src="img/png/blue_luma__super_mario_galaxy__png_by_sylvanbey_dfwxwsw-pre.png"> certifications
 
 ```
-✓  GitHub Foundations            Achieved!
-✓  AWS Cloud Practitioner        ← loading [▓▓░░░░░░]
-◌  AWS Associate                 ← loading [▓▓░░░░░░]
+✓  GitHub Foundations
 ```
 
 ---
